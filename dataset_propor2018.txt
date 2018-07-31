@@ -1,0 +1,812 @@
+Por enquanto, o Circo da Física se apresenta apenas em Belo Horizonte e cidades vizinhas , mas a equipe pretende expandir em breve essa área .	expandir	20	0:alargar
+O pesquisador não vira os exemplares dessa espécie vivos , mas os homens que os coletaram lhe disseram que o bigode dos macaquinhos fazia uma curva para cima .	coletaram	15	0:recolher	0:pegaram
+Como a obra fez sucesso na redação , resolvemos aproveitar e presentear um de nossos leitores com ela .	presentear	11	0:mimosear
+Foi a partir da observação dos animais em Galápagos que Charles Darwin elaborou a Teoria da Evolução das espécies .	elaborou	12	0:conceber	0:preparar	0:estruturar
+Atualmente , para ter acesso aos jogos mais recentes , os brasileiros têm de recorrer aos importados , que chegam ao Brasil custando até o quádruplo do preço .	recorrer	14	0:apelar
+Ora , quem possuía um bigode tão vistoso assim era ninguém menos que Guilherme II , o que levou Emílio Goeldi a nomear o sagui-bigodudo como Midas imperator ( `` imperador” , em latim ) .	nomear	22	0:batizar	0:apelidar
+Depois de passarem 14 meses coletando fezes de um casal de pandas do zoológico de Memphis , os pesquisadores descobriram que nelas existiam mais de 12 tipos de bactérias com poder de digestão da celulose .	coletando	5	0:recolher
+Isto é : há uma unidade responsável pela cor da ervilha , outra pela sua forma , outra pela forma da vagem e assim por diante ... Com isso , ele pôde deduzir que o mesmo acontecia com os outros seres vivos , incluindo o homem .	deduzir	32	0:inferir	0:concluir
+O formato de cada livro é definido de acordo com o seu gênero : quadrinhos , por exemplo , costumam ser publicados na plataforma Daisy , que oferece mais possibilidades para o leitor visualizar o conteúdo ( entenda como os cegos leem ) .	visualizar	33	0:ver
+Nós mesmos somos formados por 80 % de água – é ela que ajuda no funcionamento dos órgãos e possibilita que eliminemos as impurezas do corpo .	possibilita	19	0:permitir
+`` Temos procurado atuar no controle da caça , no aumento das áreas de preservação das onças e também no estímulo a novos estudos sobre esse animal , pois quanto mais o conhecermos , melhor será possível protegê-lo” , garante .	atuar	3	0:trabalhar	0:agir	0:operar
+Ele não retém a água e , por isso , é seco .	retém	2	0:conservar	0:segurar
+Mas agora cientistas descobriram que diferentes espécies de macacos podem compartilhar seu espaço umas com as outras !	compartilhar	10	0:partilhar
+Ela simboliza o pensamento humano sobre a vida .	simboliza	1	0:representar
+Além dela , há também a Agenda 21 Local , que estabelece o que deve ser feito para solucionar problemas de determinado lugar .	solucionar	18	0:resolver
+Para isso , os cientistas estão coletando penas , ovos e até fezes de pinguins e skuas .	coletando	6	0:recolher
+Os aromas sintéticos , por sua vez , podem ser classificados como idênticos aos naturais ( com estrutura química igual ao composto natural ) ou artificiais ( com estrutura química não encontrada na natureza ) .	sintéticos	2	0:artificial
+Essa é uma das jogadas favoritas de Peter Thomsen , 8 , que treina no São Paulo Athletic Club .	favoritas	5	0:preferido	0:predileto
+Mas é uma vontade inexplicável , eu quase me sinto obrigada a escrever para crianças .	inexplicável	4	0:inexprimível
+Como você deve ter imaginado , nenhum cientista viajou até esse planeta tão longínquo para verificar se havia água nele .	longínquo	13	0:longe	0:remoto	0:afastado
+Nem sempre o que está publicado é verdadeiro e confiável , portanto , é preciso estar atento e sempre confirmar de onde veio o texto .	confiável	9	0:fidedigno
+A dramática história de Tycho começa antes mesmo de seu nascimento , em 1546 .	dramática	1	0:comovente
+Ficar sentado por tanto tempo no espaço também não é tão desconfortável quanto seria na Terra .	desconfortável	11	0:desagradável	0:incômodo
+O tatu-bola está na lista de ameaçados de extinção devido ao avanço do desmatamento na região , no norte e o nordeste do país , e o hábito local de caçar o animal para o consumo na alimentação .	avanço	11	0:crescimento
+`` Ter maior qualidade de vida e maior autonomia foi bom não somente para as próprias mulheres , mas também para seus filhos , para suas famílias e para toda a sociedade” .	autonomia	8	0:liberdade	0:independência
+`` Presos , eles acabam sofrendo com falta de exercícios , autonomia e estímulos” , explica Joyce .	autonomia	11	0:independência
+Comparando os diferentes relatos , você observará como as escolhas dos recursos de linguagem contribuem para distinguir uma produção de outra , pois , ao relatar o que é pessoal , cada autor imprime sua `` marca '' especial .	relatos	3	0:narração
+Já a região Norte apresentou o pior resultado do país , com redução de apenas 2,7 % .	redução	12	0:diminuição
+Cole no caderno gravuras de índios ou objetos usados pelos índios , como arco , flecha , zarabatana , cocar etc .	gravuras	3	0:imagem	0:ilustração	0:figura
+A poesia sonora [ que não teve adeptos no Brasil ] e a poesia visual são	adeptos	7	0:seguidor	0:discípulo
+Um dia , lá no século VI a.C , um corifeu chamado Téspis interrompeu de repente a celebração para declarar , alto e bom som : `` Eu sou Dioniso ! `` .	celebração	17	0:comemoração	0:festejo
+Juca também adorava ir à biblioteca da casa de seu avô : os livros de viagens e aventuras eram os seus favoritos .	favoritos	21	0:preferido	0:prediletos
+Comparando os diferentes relatos , você observará como as escolhas dos recursos de linguagem contribuem para distinguir uma produção de outra , pois , ao relatar o que é pessoal , cada autor imprime sua `` marca '' especial .	relatos	3	0:narração
+Sabemos disso porque , no conto `` Casa Velha” , é provável que as descrições feitas por Machado tenham sido da casa principal , com a sua grande varanda , os portões enormes , o caminho para a capela , as pessoas da vizinhança que vinham ouvir a missa aos domingos ou rezar a ladainha aos sábados , `` em geral pobres , de todas as idades e cores” , descreve o autor .	vizinhança	43	0:arredor	0:proximidade
+`` Se você pensar racionalmente , não encontra nenhum motivo para fazer um livro para crianças .	racionalmente	4	0:razoavelmente
+Será o mundo assim , uma bola confusa , onde acontecem unicamente desastres e desgraças ?	unicamente	11	0:exclusivamente	0:somente	0:só	0:apenas
+O Espaço Tiridá – Museu do Mamulengo , em Olinda , reúne uma coleção enorme de fantoches tipicamente nordestinos de várias épocas .	tipicamente	17	0:caracteristicamente
+Já estavam descansando quando uma vozinha os acordou suavemente .	suavemente	8	0:brandamente	0:docemente
+E , para piorar , as aulas começavam pontualmente às sete horas .	pontualmente	8	0:religiosamente
+Com tão pouca idade , dificilmente sobreviveriam sozinhas na natureza , já que não sabiam caçar .	dificilmente	5	0:raramente
+As garras do predador seguram seu corpo e o bico desce violentamente sobre sua cabeça .	violentamente	11	0:brutalmente
+Além disso , a escavação de poços com pouco mais de 11 quilômetros de profundidade mostram que a temperatura no interior de nosso planeta aumenta progressivamente .	progressivamente	25	0:gradualmente
+`` Das 65 espécies observadas no local , 13 estão sofrendo com as mudanças , sendo quatro gravemente ameaçadas” , lamentou .	gravemente	17	0:perigosamente	0:seriamente
+Vivem principalmente em bandos e se movem vagarosamente , a não ser quando assustadas .	vagarosamente	7	0:devagar	0:lentamente	0:morosamente
+Os componentes do Playmation , por exemplo , são intencionalmente produzidos para não permitir conexão com a Internet quando as crianças estão brincando , disse .	intencionalmente	9	0:propositalmente	0:propositadamente
+A obra conta a história da cidade de Narizópolis , subitamente invadida por um forte cheiro que ninguém sabe do que é e nem de onde vem .	subitamente	10	0:repentinamente
+O que acontece : uma espécie de papagaio de lá fica aparentemente bêbada .	aparentemente	11	0:supostamente
+`` A água foi importante para a formação de vida na Terra , mas não é necessariamente um sinal de vida” , afirma Jonathan .	necessariamente	16	0:obrigatoriamente
+Se você pensar racionalmente , não encontra nenhum motivo para escrever um livro para crianças .	racionalmente	3	0:razoavelmente
+`` A troca cultural não destrói necessariamente uma cultura” , explica João Pacheco .	necessariamente	6	0:obrigatoriamente
+Meu amigo lança fora , alegremente , o jornal que está lendo e diz :	alegremente	5	0:festivamente
+A partir de 1664 , quando os manchus expandiram o território da China na direção norte , a obra perdeu utilidade .	expandiram	8	0:aumentar	0:alargar
+Ele é uma substância doce produzida a partir do néctar que coletam das flores .	coletam	11	0:colher
+Mas , com a dupla Ronaldo e Adriano , a balança pende para o lado fluminense .	pende	11	0:inclinar
+Ela complementa afirmando que a criança , mesmo assim , deve ser repreendida .	complementa	1	0:completa
+Há , ainda , aqueles que se orgulham de suas habilidades como marceneiros , outros que não se cansam de contar suas histórias da infância passada na rua , jogando futebol .	orgulham	7	0:envaidecer
+Assim , se a taxa continuar em torno de 0,2 % ao ano , este futuro negro se concretizará em 2053 .	concretizará	18	0:consumar	0:realizar	0:efetivar
+Neste livro a escritora Ruth Rocha reconta as histórias da tradição popular de muitos lugares do mundo .	reconta	6	0:narrar
+A primeira foi acabar com o leão que aterrorizava Nemeia , uma região na península do Peloponeso .	aterrorizava	8	0:apavorar
+Samuel L. Jackson o idolatra em Jackie Brown , de Quentin Tarantino .	idolatra	4	0:venerar	0:adorar
+Lutaram ao lado de franceses contra outros indígenas e deram uma força aos ingleses que batalhavam contra a ex-colônia que já se chamava Estados Unidos	batalhavam	15	0:lutar	0:guerrear
+Além de exaltar a tradição da cozinha nacional , a chefe também destaca a importância de valorizar quem produz boa parte do alimento que vai para as nossas mesas .	exaltar	2	0:enaltecer
+No processo de adoção do vôo , os quadrúpedes desenvolveram os membros superiores , enquanto os inferiores foram regredindo .	regredindo	18	0:involuir
+A partir do século 17 , esses três fatores revolucionaram o combate marítimo .	revolucionaram	9	0:transformar
+Mas também acontece de eles deixarem as fezes expostas - nesse caso , a intenção seria inversa : demarcar seu território '' , diz o veterinário Gélson Genaro , da USP , especialista em gatos .	demarcar	18	0:marcar	0:delimitar
+Outro fator que precisa ser levado em conta é o tempo que cada região leva para cicatrizar .	cicatrizar	16	0:sarar
+É hora de revisar os textos e numerar as páginas .	revisar	3	0:corrigir
+No restante da Europa , o sabão era praticamente desconhecido - tanto que , quando a nobreza italiana , francesa ou inglesa presenteava governantes de outras nações com uma caixinha de sabão , não esqueciam de acrescentar uma descrição detalhada de seu uso .	presenteava	22	0:mimosear
+Ele estipula o que deve constituir a base do ensino , mas dá certa liberdade para as escolas montarem suas grades .	estipula	1	0:estabelecer	0:determinar
+Quando a roupa seca , ela pode encolher e se deformar .	deformar	10	0:alterar
+Pacifistas , eles se recusam a portar armas , usar espadas ou até mesmo prestar serviço militar	portar	6	0:levar
+O professor Fan Meizhong foi demitido por abandonar os alunos quando um terremoto atingiu a escola em que lecionava .	lecionava	18	0:ensinar
+Não , é o telescópio Hubble , que revolucionou a astronomia e trouxe muitas novidades para a ciência !	revolucionou	8	0:transformar
+Muitos outros apareceram em diversos estados da região , mas nenhum se igualou em fama ao de Lampião , de Pernambuco .	igualou	12	0:equiparar
+Essa maneira de abordar problemas é bastante útil para os físicos .	abordar	3	0:tratar
+Então , foi a hora de remontar o osso de dinossauro .	remontar	6	0:recompor
+A Organização das Nações Unidas para a educação , a ciência e a cultura ( Unesco ) achou muito apropriada a homenagem e concedeu ao samba o título de Patrimônio Cultural da Humanidade .	concedeu	23	0:dar
+A atração entre os corpos celestes também é forte o suficiente para deformar a parte sólida do planeta .	deformar	12	0:mudar	0:transformar	0:modificar	0:desfigurar
+`` Seu trabalho marcaria o início de um movimento que modernizaria a arte no Brasil” , conta Luzia Portinari .	modernizaria	10	0:atualizar
+Nariz avantajado , corpo grande , rosto protuberante e estatura baixa : essas são algumas características dos nossos parentes neandertais , extintos há quase 30 mil anos .	protuberante	7	0:saliente
+O registro do patrimônio imaterial pretende apenas ter uma referência sobre como certas manifestações ocorrem” , conta Nina .	imaterial	4	0:impalpável
+Recentemente , um sapo intrometido ganhou destaque nas notícias sobre exploração espacial : em meio ao lançamento de uma sonda em direção à Lua , o anfíbio enxerido apareceu voando em uma das fotos do evento .	enxerido	27	0:abelhudo	0:intrometido
+A boa-nova , como você pode ver abaixo , é que , enquanto o CFC que escapava destruía a camada de ozônio , o GLP é um gás inócuo , que não causa nenhum problema ao meio ambiente .	inócuo	28	0:inofensivo
+Agora , foi escolhido para acompanhar o crescimento das mudas do jardim praiano , principalmente da árvore , que hoje tem apenas um metro e meio de altura , mas na fase adulta pode alcançar até oito metros !	praiano	12	0:praieiro
+Criado por cientistas australianos , o pequeno submergível pode ser produzido a baixo custo e ser usado para localizar navios naufragados , procurar aeronaves que caíram no mar , buscar depósitos minerais em grandes profundidades , monitorar as correntes e a temperatura dos oceanos , entre outros fins .	submergível	7	0:submersível
+A consequência dessa `` montanha-russa '' são vários sintomas físicos e psíquicos que se manifestam nas mulheres , de dez a 15 dias antes da menstruação .	psíquicos	11	0:psicológicos
+Juca também adorava ir à biblioteca da casa de seu avô : os livros de viagens e aventuras eram os seus favoritos .	favoritos	21	0:preferido	0:prediletos
+A população de orangotangos-de-bornéu que habitam florestas da Malásia e da Indonésia resume-se a 14 % da existente em meados do século XX .	meados	19	0:metade	0:meio
+Os de ciência são meus favoritos , mas também gosto de conhecer museus que tratam de arte , história , cultura ... Se você é curioso como eu , vai adorar o programa Conhecendo museus , que mostra instituições de todo o Brasil .	favoritos	5	0:preferido	0:prediletos
+Isso poderia explicar por que o dicinodonte encontrado no sul do Brasil é tão parecido com fósseis descobertos na África – a separação das duas porções de terra aconteceu bem depois do período Permiano .	separação	22	0:desmembração
+No que depender de Rayssa Leal , 7 , o sucesso do país na modalidade vai continuar por muito tempo .	modalidade	14	0:categoria
+De fato , chegar à Lua representou um avanço e tanto para o ser humano .	avanço	8	0:progresso
+Escolha um experimento e mãos à obra !	experimento	2	0:experiência
+É preciso chegar cedo para não perder o raio que acentua a coloração da água .	coloração	12	0:colorido	0:cor
+O motivo desse nome é que , nesta espécie , a base das antenas ( localizadas no topo da cabeça ) tem coloração esverdeada .	coloração	22	0:pigmentação	0:cor
+O intuito é comparar os resultados para notar como a falta de gravidade afeta , por exemplo , o crescimento das plantas .	intuito	1	0:propósito	0:objetivo	0:finalidade	0:intenção
+O primeiro sintoma da doença são feridas no pênis que custam a cicatrizar ( ai ! ) .	cicatrizar	12	0:sarar
+Pensando em imortalizar essas edições , lançamos o Especial 10 Melhores Capas !	imortalizar	2	0:eternizar
+Agora , uma coisa é certa : para cumprir seu papel , um zoológico precisa de boas instalações , com ambientes espaçosos que simulem o meio natural .	simulem	23	0:aparentar
+Por isso , o show consegue abordar acontecimentos recentes .	abordar	6	0:tratar
+Para Letícia Campos , 10 anos , `` foi muito bom vivenciar um pouco da cultura nordestina , além de aprender sobre os artistas da nossa região '' , disse a menina , uma das participantes do projeto .	vivenciar	11	0:experimentar	0:experienciar	0:provar
+Pois ele se baseava nas notícias do jornal , nas coisas que contavam a ele e na própria imaginação para escrever textos .	baseava	3	0:fundamentar
+Os meninos do coral regido por ele iniciavam os ensaios entoando esse hino composto em louvor a São João Batista .	entoando	10	0:cantar
+Há , entretanto , poucas espécies maiores , com cerca de meio metro de comprimento , capazes de aprisionar rãs e pássaros .	aprisionar	18	0:apanhar	0:pegar	0:agarrar
+É como se o trânsito na região congestionasse por causa do tumulto .	congestionasse	7	0:engarrafar
+Eles minimizam os movimentos mais visíveis dos lábios e da boca , mudando a voz para criar um personagem .	minimizam	1	0:diminuir
+Vários desses fãs compilaram entrevistas de Michael e seus familiares defendendo a teoria .	compilaram	3	0:reunir
+No século 18 , o esporte ressurgiu na Inglaterra e foi batizado como boxing .	ressurgiu	6	0:reaparecer
+`` No entanto , vai poder se maravilhar com uma escultura ou uma ilustração em vida desses animais , sabendo um pouco mais da sua história e de como eram” .	maravilhar	7	0:fascinar	0:deslumbrar	0:encantar
+Eles guerreavam entre si – como pode ser visto nas pinturas de sala do templo de Bonampak , reproduzida em tamanho real na exposição – e praticavam uma série de rituais , em ocasiões específicas ( guerra , casamento etc ) em honra dos deuses , para manter o equilíbrio do universo .	guerreavam	1	0:batalhar	0:lutar
+No longo percurso feito por rios , os viajantes se depararam com correntezas assustadoras e cachoeiras .	depararam	10	0:defrontar
+Mas , embora ele tenha sido cantado em cerimônias patrióticas oficiais desde o século 16 , só foi oficializado como o hino nacional em 1932 .	patrióticas	9	0:cívico
+Agora seu espírito aventureiro está de volta à cidade maravilhosa , na exposição , no Museu Histórico Nacional .	aventureiro	3	0:audacioso
+Os cientistas notaram que as filhas mais talentosas , aquelas que conseguem cantar mais parecido com a mamãe , cantam com menos frequência que as outras .	talentosas	7	0:habilidoso
+Pelo menos , eles não dirigem carros nem dizem coisas embaraçosas sobre você .	embaraçosas	10	0:constrangedoras
+O apresentava uma cauda robusta e longa , tinha 9,5 metros de altura e pesava oito toneladas .	robusta	4	0:forte
+A ideia de dar às borboletas nomes de personagens lendários acabou virando moda e foi mantida por pesquisadores que descreveram outras espécies .	lendários	9	0:legendário
+Por outro lado , a febre , que costuma ser alta nos adultos , é mais branda nas crianças .	branda	16	0:moderado	0:ameno
+Um novo estudo mostra que o lar dos wolverines americanos pode sofrer grandes mudanças por causa da emissão excessiva dos chamados gases estufas , que contribuem para o aumento da temperatura da Terra e são produzidos pelo ser humano quando , por exemplo , queimamos combustíveis como o petróleo e o carvão .	emissão	17	0:lançamento
+Assim , o nadador desliza com mais eficiência e menos esforço .	eficiência	7	0:eficácia
+A autonomia total só veio na década de 50 , com a invenção dos submarinos nucleares .	autonomia	1	0:independência
+Dominava todos os fundamentos técnicos e aliava o jogo bonito à eficiência	eficiência	11	0:eficácia
+Antes do surgimento da internet , a maioria das pesquisas era realizada em publicações impressas .	surgimento	2	0:advento
+Elas possuíam alojamentos , depósitos e até mesmo miniusinas que garantiam sua total autonomia .	autonomia	13	0:independência	0:auto-suficiência
+Esses ossos apresentavam indícios de que tinham sido danificados pelas chuvas e ventos , ou mesmo por animais que se aproveitavam dos restos mortais da bicharada .	indícios	3	0:sinal
+Tem uma espessura média de 72 quilômetros sob os continentes , e menos de oito quilômetros em algumas áreas no fundo dos mares .	espessura	2	0:grossura
+É claro que as medidas citadas não irão solucionar todos os problemas dos limeirenses com relação a essas empresas , mas , pelo menos ,	solucionar	8	0:resolver
+Quando contou seus planos ao pai , ele riu e a proibiu , alegando que seu cabelo ficaria preso no mastro do navio .	alegando	13	0:argumentar
+A autora Marina Miyazaki Araujo encontrou uma maneira delicada de abordar um tema difícil no livro `` Pai Francisco '' ( Pólen Editorial ; R $ 25,90 ) .	abordar	10	0:tratar
+Não se esqueça de deixar o quarto bem escuro para visualizar bem as sombras dos palitos , que devem ser fincados na bola de isopor .	visualizar	10	0:enxergar
+O jeito que ele aborda a aula .	aborda	4	0:tratar
+Muitos países já elaboraram suas agendas pensando em como poderiam se desenvolver sem prejudicar ou esgotar seus recursos naturais , garantindo melhor qualidade de vida à população .	elaboraram	3	0:organizar	0:criar	0:estruturar
+Cada participante coletou 20 litros de cocô de vaca e separou em 15 porções .	coletou	2	0:recolher
+Agrion significa `` selvagem” ou `` do campo” , e já foi usado para nomear alguns tipos de libélulas que vivem em áreas abertas .	nomear	14	0:batizar
+Os três têm planos bem diferentes e resolvem se aventurar pelo mundo até que conhecem Scarlet Overkill , a personagem de Bullock .	aventurar	9	0:arriscar
+Foi a partir da observação dos animais em Galápagos que Charles Darwin elaborou a Teoria da Evolução das espécies .	elaborou	12	0:preparar	0:criar	0:estruturar
+No dia 22 de abril , os portugueses avistaram uma terra desconhecida .	avistaram	8	0:ver
+Estarei checando novamente esse e-mail depois do pouso .	checando	1	0:verificar	0:conferir
+Em referência a ela surgiu o nome , que designa o gênero de aves a que pertence a andorinha-azul .	designa	9	0:denominar
+Altahmam ( em árabe ) designa um tipo de tristeza profunda	designa	5	0:significar
+Em 1972 , Ronald Heyer , maior especialista sobre esses anfíbios no mundo , batizou uma espécie de , em homenagem ao seu professor , Jens Knudsen , que o incentivou a se tornar um pesquisador .	batizou	14	0:nomear	0:chamar
+Quando criança , teve uma educação rígida — seu pai era pastor — e dificuldade em fazer amigos .	rígida	6	0:rigoroso	0:severo
+Com cerca de 380 milhões de anos , seus fósseis foram encontrados na Austrália e os cientistas verificaram que estavam diante de um peixe-mãe prestes a dar à luz .	prestes	24	0:pronto
+Ele não cabia no caixão porque , apesar de ter `` cabeça pequena '' e `` corpo franzino '' , suas pernas eram , claro , compridas .	franzino	17	0:pequeno	0:raquítico
+Para voltar ao normal , Gildo terá que conseguir um antídoto bem nojento .	nojento	12	0:repugnante	0:asqueroso
+Se um jogador faz um belo e decisivo gol e tres assistências ( passes para jogadores cara a cara com o goleiro adversário ) ,	decisivo	7	0:crucial
+Você já viu a emoção de receber uma carta de seu escritor favorito ?	favorito	12	0:preferido	0:predileto
+Comprei algumas bolsas e óculos de sol KimKardashian Tenho uma habilidade muito bizarra : sinto pelo cheiro quando alguém tem cárie .	bizarra	12	0:estranho	0:esquisito
+Depois que você estiver por dentro de quem foi Darwin , de como foi a viagem que ele realizou pelo mundo a bordo do veleiro Beagle e das evidências que comprovam a teoria da seleção natural , direcione-se à árvore da exposição .	evidências	28	0:prova
+Aos poucos , vá colocando a farinha misturada com a aveia e as guloseimas que você preferir .	guloseimas	13	0:iguaria	0:quitute
+A mostra já passou por outras cidades brasileiras , como Salvador e Rio .	mostra	1	0:exposição
+A matéria orgânica em decomposição — como restos de animais e de vegetais — é uma das guloseimas que fazem parte do seu cardápio pouco exigente .	guloseimas	17	0:iguaria
+Em um experimento semelhante , mas de menor duração realizado em 1999 , o comandante tentou beijar à força uma tripulante canadense de 32 anos .	experimento	2	0:experiência
+Fique atento , portanto , quando bater aquela vontade irresistível de comer uma guloseima , principalmente se ela for industrializada .	guloseima	13	0:iguaria
+`` A equipe pretende estudar como os indícios de fogo encontrados se relacionam com as atividades humanas da época” , explica .	indícios	7	0:vestígio
+O período de gestação vai de 420 a 468 dias , e nasce somente um filhote por vez .	gestação	3	0:gravidez
+Na natureza , vale tudo para escapar de predadores : as estratégias de disfarce envolvem cores , cheiros , comportamentos e até forma do corpo .	estratégias	11	0:artimanha	0:truque
+Os avanços mais importantes da impressora 3D estão na área médica .	avanços	1	0:progresso
+Os bombeiros chegaram a tempo graças à coragem do cão , que não tinha nenhum treinamento .	treinamento	15	0:adestramento
+Responsável pela Flipinha desde que ela foi criada , em 2004 , Gibrail diz que a programação não foi afetada neste ano pela redução nas verbas .	redução	23	0:diminuição
+Mesmo assim , não há consenso se é possível uma cabeça humana cortada ter instantes de consciência	consenso	5	0:concordância
+A Gruta do Lago Azul e o Abismo Anhumas são os mais indicados , tendo em vista que uma parte das cavernas e grutas da região está sendo estudada pelo Ibama ( Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis ) para poderem ser liberadas para visitação .	visitação	48	0:visita
+Em um experimento semelhante , mas de menor duração realizado em 1999 , o comandante tentou beijar à força uma tripulante canadense de 32 anos .	experimento	2	0:experiência
+`` É comum ocorrer colisão de aves com prédios altos que são revestidos com vidro , material que confunde o animal .	colisão	4	0:choque
+Imagine encontrar um rebanho desses gigantescos animais andando calmamente pelas planícies do cerrado !	calmamente	8	0:placidamente	0:serenamente	0:tranqüilamente
+Já os primeiros seres humanos apareceram possivelmente há cerca de 250 mil anos .	possivelmente	6	0:provavelmente
+Em qualquer texto , há elementos que são ditos explicitamente e outros que cabe ao leitor completar .	explicitamente	9	0:declaradamente
+`` Hoje , em nosso país , podemos encontrar apenas cinco espécies , que estão seriamente ameaçadas de extinção” , conta .	seriamente	15	0:gravemente
+`` Isso funciona porque todas as pessoas têm a capacidade de perceber , inconscientemente , as radiações do ambiente , como as que são produzidas pela água em movimento .	inconscientemente	13	0:involuntariamente
+No Brasil , apenas duas dessas famílias são comumente encontradas , em certas regiões .	comumente	8	0:geralmente
+Parentes dos polvos , possuíam tentáculos e mandíbulas poderosas que atacavam vorazmente grandes peixes e répteis marinhos .	vorazmente	11	0:avidamente
+Por isso , eles se alimentam vorazmente antes da partida .	vorazmente	6	0:avidamente
+Elas foram divididas em dois grupos , e as que ficaram no primeiro tiveram que ouvir , todos os dias , uma gravação de oito minutos que repetia constantemente a palavra ‘tatata’ pronunciada em diferentes tons e intensidades .	constantemente	28	0:continuamente	0:sempre	0:incessantemente
+`` Com o Hubble , imagens nunca antes obtidas foram possíveis , modificando radicalmente a maneira de olharmos para o universo” , comenta o físico Adilson de Oliveira , da Universidade Federal de São Carlos .	radicalmente	13	0:completamente	0:totalmente
+Muitos de nós fazemos isso automaticamente , sem pensar nas consequências .	automaticamente	5	0:maquinalmente	0:mecanicamente
+Quando sentem calor , as baleias precisam reduzir a atividade física , repousando calmamente na superfície da água para o corpo resfriar .	calmamente	13	0:placidamente	0:serenamente	0:tranqüilamente
+Será o mundo assim , uma bola confusa , onde acontecem unicamente desastres e desgraças ?	unicamente	11	0:exclusivamente	0:somente	0:só	0:apenas
+Percebemos que as abelhas resolveram o quebra-cabeça muito bem em conjunto , mesmo que individualmente cada uma tenha encontrado a solução de modos diferentes , e algumas tenham sido mais espertas que outras .	individualmente	14	0:particularmente
+Bem , mas querendo ou não , eles vão ter que se decidir logo , logo , porque tem uma lei dizendo que o nome dos candidatos precisa obrigatoriamente ser definido até o dia 30 de junho .	obrigatoriamente	28	0:forçosamente	0:necessariamente
+`` Quando seguramos o espirro , aumentamos subitamente a pressão em áreas do ouvido ligadas ao nariz .	subitamente	7	0:repentinamente
+De vez em quando , dou uma olhada na minha arvorezinha — que é baixa , tem troncos retorcidos e é boa de subir — para checar se ela continua do meu tamanho .	checar	26	0:verificar	0:conferir
+`` Queremos expandir a técnica para lá e para outros lugares do Brasil” .	expandir	2	0:propagar	0:difundir
+Antes dessa iniciativa , os cientistas costumavam nomear as espécies que descobriam como bem quisessem .	nomear	7	0:batizar	0:chamar
+`` Sabíamos que era muito provável que houvesse outros animais onde estávamos escavando , mas , depois de cerca de 10 anos trabalhando no mesmo local , nunca tínhamos encontrado” , conta .	escavando	12	0:cavar
+Uma forma de evitar a execução chegou a ser sugerida , mas Sócrates recusou , alegando que a sentença , embora injusta , havia sido pronunciada por um tribunal legítimo e assim deveria ser cumprida - o que aconteceu em Atenas naquele mesmo ano de 399 a.C .	alegando	15	0:argumentar
+Mas como um escritor poderia saber tanto sobre ciência a ponto de prever diversas invenções que só viriam a se concretizar no futuro ?	concretizar	20	0:realizar	0:materializar
+As fadas nos falam de ... amizade , de Rosa Maria Curto e Aleix Cabrera , Ciranda Cultural .	falam	3	0:contam
+Há muito tempo , em 1801 , o francês François-Marie Daudin batizou uma espécie de lagarto da América do Sul de Dracaena guianensis .	batizou	11	0:nomear
+Para minha felicidade , os dois toparam compartilhar algumas dessas lembranças aqui no blogue .	compartilhar	7	0:partilhar
+Havia também um desenho animado que ajudou a popularizar os bonequinhos pelo país .	popularizar	8	0:divulgar
+Caligo brasiliensis faz referência ao Brasil ; Caligo placidianus parece ser uma homenagem ao general romano Placidiano , que viveu no século 3 ; e o nome Caligo beltrao é dedicado a Luís Beltrão , um oficial de justiça brasileiro que coletou os exemplares usados para descrição da espécie pelo pesquisador alemão Johann Illiger em 1801 .	coletou	41	0:recolher
+Quais as dificuldades que encontrou para abordar o tema ?	abordar	6	0:tratar
+É importante vasculhar a copa das árvores para compreender realmente a biodiversidade presente nas florestas .	vasculhar	2	0:sondar
+Marcelo e João passam dias convivendo com mosquitos , bichos-de-pé , estradas esburacadas , entre outras dificuldades – como dar duro escavando montes de terra .	escavando	21	0:cavar
+Supermáquinas , explosivos e alta tecnologia são usados para vasculhar toneladas de rocha .	vasculhar	9	0:sondar	0:examinar
+Pensativa e curiosa , ela gosta mesmo é de abordar temas adultos como guerra , paz mundial , liberdade , filosofia e valores sociais — como a vaidade e a velhice .	abordar	9	0:tratar
+Ele constatou , então , que nenhum livro existente trazia a resposta para sua dúvida .	constatou	1	0:verificar
+É inevitável , portanto : quanto mais a pessoa fica acordada , mais sono sente .	inevitável	1	0:fatal
+Neste momento , uma leve brisa movimentou sombras e medos ancestrais .	ancestrais	10	0:antigos
+Como em um passe de mágica , cavalos , carros e pessoas , e até o famoso trem aterrorizante	aterrorizante	18	0:arrepiante	0:amedrontador
+Parte 2 : Todo site na Deep Web é maligno ?	maligno	9	0:malévolo	0:malevolente
+A ladeira nem era das maiores , mas para ele – menino franzino – subir e descer o dia inteiro não devia ser nada fácil .	franzino	12	0:raquítico
+Para realizar seu trabalho , João tem que viajar bastante e já percorreu quase todos os estados do Brasil em busca de espécies exóticas e cada vez mais curiosas .	exóticas	23	0:diferentes
+As pessoas têm necessidades vitais , isto é , necessidades sem as quais não podem viver .	vitais	4	0:essencial	0:fundamental
+Declarar uma tradição como patrimônio imaterial do Brasil é uma forma de reconhecer sua importância para país e garantir que ela não se perca com o tempo .	imaterial	5	0:impalpável
+Trata-se de um catamarã movido pela força do vento , mas que , para eventuais emergências , tem outros equipamentos , como motor e remos” , explica Eduardo .	eventuais	14	0:ocasional
+Se você tiver acesso a um telescópio , ou mesmo a um binóculo potente , pode ser o primeiro a ver essa mudança .	potente	13	0:poderoso
+No `` livro dos recordes '' tudo é meio bizarro .	bizarro	9	0:esdrúxulo	0:esquisito
+Na batalha pelo título do Campeonato Paulista de 2003 , em março último , ninguém brilhou tanto quanto aquele atacante franzino de 25 anos , que parecia sumir na camisa 17 do Corinthians .	franzino	20	0:raquítico
+Parte 2 : Todo site na Deep Web é maligno ?	maligno	9	0:malévolo	0:malevolente
+Calma , esse não é mais um mistério inexplicável do Universo .	inexplicável	8	0:incompreensível
+`` O começo é difícil , as aulas são rígidas .	rígidas	9	0:rigoroso
+Assim que bate o sinal da última aula , ele corre para vestir as chuteiras e dar o pontapé inicial na sua parte favorita do dia : a aula de futsal .	favorita	23	0:preferido	0:predileto
+A grande maioria vive no interior do organismo , em que a temperatura é mais ou menos estável e o alimento é abundante .	estável	17	0:invariável	0:constante
+No início , fazem a limpeza da colmeia , depois se tornam babás responsáveis pelas abelhas bebês , que se chamam larvas , e também trabalham na manutenção da colmeia .	manutenção	27	0:preservação	0:conservação
+A Aids não tem cura , por isso , a melhor forma de combater a doença é a prevenção .	prevenção	18	0:precaução
+Deixe na geladeira até adquirir consistência .	consistência	5	0:solidez
+No jogo Contra a Dengue , do portal Ludo Educativo , você tem como missão acabar com os focos de mosquito e livrar a vizinhança deste perigo .	vizinhança	24	0:circunvizinhança
+Depois disso , ambas passaram a trocar cartas que expressavam uma amizade marcada por rivalidade , respeito e identificação .	identificação	18	0:afinidade
+Em 2060 , devido aos avanços na medicina e um maior conhecimento sobre nossa saúde , esse número será de 81 anos .	avanços	5	0:progresso
+Quando um animal usa uma dessas estratégias , consegue se esconder melhor ou então dizer ao predador : `` cuidado comigo , eu sou perigoso ! ” , na esperança de que ele vá buscar outro prato para jantar .	estratégias	6	0:artimanha	0:artifício
+Mas a verdade é que seu reinado como `` o maior carnívoro” não durou para sempre .	reinado	6	0:domínio	0:soberania
+A trama tenta ensinar ainda algumas lições .	trama	1	0:enredo
+E se quiser saber que avanços o autor previu em alguns dos seus livros , clique aqui e fique de queixo caído !	avanços	5	0:progresso
+Pode parecer estranho , mas a redução da quantidade dessa substância protetora é boa para a saúde das crianças .	redução	6	0:diminuição
+Damineli fez alguns cálculos e concluiu que , se essa teoria estivesse mesmo correta , um próximo período de redução de brilho deveria acontecer em 1997 .	redução	19	0:diminuição
+Assim , sucessivamente , a barquinha vai sendo arremessada , sempre `` carregadinha” de uma palavra que comece pela letra imediata , na ordem alfabética .	sucessivamente	2	0:consecutivamente	0:seguidamente
+O resultado é uma confusão e tanto : acabamos enxergando incorretamente uma imagem captada por nossa visão .	incorretamente	10	0:erroneamente
+O próximo competidor , obrigatoriamente , dobra a aposta inicial , também às cegas .	obrigatoriamente	4	0:necessariamente
+A poesia que conta a história é lindamente ilustrada pelo autor e a estrelada cozinha noturna mais parece uma cidade inteira de ingredientes .	lindamente	7	0:belamente
+Os cientistas acreditam que tal objeto seria uma nova lua , provisoriamente apelidada de Peggy .	provisoriamente	11	0:temporariamente
+É que os brasileiros contribuem excessivamente com outros tipos de impostos .	excessivamente	5	0:demasiadamente	0:demais
+Assim , a vida marinha e todo o ecossistema aquático podem ser gravemente afetados .	gravemente	12	0:perigosamente	0:seriamente
+Bem , os seres vivos trocam continuamente carbono com a atmosfera quando se alimentam e respiram .	continuamente	6	0:incessantemente
+Em geral , percebemos o mundo à nossa volta pela visão , primeiramente .	primeiramente	12	0:inicialmente
+Tudo porque a maioria das minhocas pode regenerar grande parte do corpo .	regenerar	7	0:recompor
+Em todas elas , é claro , os participantes devem abordar temas relacionados à química e sua importância na sociedade .	abordar	10	0:tratar
+É preciso popularizar a informação e aproximar o homem comum do conhecimento .	popularizar	2	0:divulgar	0:difundir
+Naquela época , entrar na água salgada para curar doenças era a última moda na Europa , desde que as ideias do médico inglês John Floyer , publicadas no início do século 18 no livro História do Banho Frio , se popularizaram entre os médicos ingleses e franceses .	popularizaram	41	0:disseminar	0:difundir
+Ambientado na cidade de São Paulo , o curta-metragem Bilu e João [ Brasil / ltália , 2005 ] retrata um dia	retrata	19	0:descrever
+Ao fim de cada experiência , um breve parágrafo expõe o princípio científico em que se baseia a atividade .	baseia	16	0:apoiar	0:fundamentar	0:alicerçar
+Para se aperfeiçoar , só fez um curso de pintura por dois anos , em Belo Horizonte , cidade onde nasceu em 1957 .	aperfeiçoar	2	0:aprimorar
+`` Ainda precisamos , no entanto , entender melhor como as minhocas afetam o crescimento vegetal e como elas interagem com microrganismos do solo e as plantas” , diz Brown .	interagem	19	0:interatuar
+É autor de diversos livros que têm contribuído para difundir a riqueza e os valores dos povos indígenas .	difundir	9	0:divulgar
+Quanto mais ela se debate tentando sair da areia que cede , mais rapidamente afunda .	afunda	14	0:submergir
+O maestro tem a preocupação de ressaltar aos alunos : `` Para ser qualquer profissional , é preciso ser cidadão primeiro .	ressaltar	6	0:destacar	0:salientar
+`` A ilha é muito rica em alimentos , mas os índios não precisariam levar urnas tão grandes para buscá-los” , argumenta Rita .	argumenta	21	0:alegar
+A dúvida persiste , mas sabemos que , no século 18 , quando as indústrias começaram a se multiplicar pela Europa , as bonecas se popularizaram como brinquedos infantis .	popularizaram	25	0:difundir
+O instrutor Éric é quem passa os conselhos para os garotos , que provam com disciplina e segurança da emocionante experiência de se aventurar nas alturas .	aventurar	23	0:arriscar
+Já passou por situação similar ?	similar	4	0:semelhante
+Os primeiros vegetais a existirem nos ambientes terrestres , há pelo menos 420 milhões de anos , eram pequenas plantas de parentesco longínquo com as espécies conhecidas como , atualmente encontradas em charcos e áreas com muita umidade .	longínquo	22	0:distante	0:remoto
+A história parece saída de um filme de ficção científica bem aterrorizante .	aterrorizante	11	0:arrepiante	0:amedrontador
+Uma das raras exceções é o chamado pinguim-de-galápagos ( Spheniscus mendiculus ) , encontrado na região equatorial .	equatorial	16	0:equinocial
+`` Como paleoartista , acredito que representar as espécies traz uma sensação inexplicável .	inexplicável	12	0:inexprimível
+`` O pau-brasil , sem a realização de pesquisas científicas corretas e confiáveis , pode ser extinto nos próximos 500 anos” , conta Yuri .	confiáveis	12	0:fidedigno
+Ter medo é uma coisa séria para as crianças e é bom ver que não são as únicas com um pavor inexplicável	inexplicável	21	0:incompreensível
+Uma variedade de olhos comparável à que encontramos quando estudamos fósseis ...	comparável	4	0:parecido	0:semelhante
+`` Muitas pessoasconfundem material irradiado com material radioativo .	radioativo	7	0:radiativo
+Não existe nenhum registro confiável de uma sucuri-verde tão grande .	confiável	4	0:fidedigno
+Sobre a evolução das espécies , Darwin explica ainda que somente os mais fortes e mais aptos conseguem sobreviver e a própria natureza se encarrega de fazer essa seleção natural .	aptos	16	0:hábil	0:competente
+Os mais aptos e adaptados vivem por um período maior de tempo e geram mais filhos .	aptos	2	0:hábil	0:competente
+Já os seres vivos menos aptos vivem menos e deixam número menor de descendentes .	aptos	5	0:hábil	0:competente
+Assim , com essas mudanças , as vantagens do uniforme escolar são inúmeras .	inúmeras	12	0:incontável	0:inumerável
+Outras características típicas dessas aves , que vivem em torno de 30 anos , são as patas curtas , as asas rígidas e o andar desajeitado .	rígidas	21	0:duro
+Dentes , garras , veneno , camuflagem , velocidade ... Cada bicho tem suas armas para atacar e se defender .	camuflagem	6	0:disfarce
+As florestas são destruídas para dar lugar à expansão urbana e à agricultura , o que explica os altos índices de animais sob risco no sul e no sudeste da Ásia , onde as populações crescem em ritmo acelerado .	expansão	8	0:ampliação
+Assim acontece com os relatos de viagem , o registro de dias , meses , anos , passados no deserto , na floresta , no mar ...	relatos	4	0:narração
+A mostra conta o processo de criação do filme , que será lançado no Brasil em 20 de agosto .	mostra	1	0:exposição
+`` Para alcançar a potência que desejamos , precisaríamos de uma antena de 15 quilômetros de extensão , o que seria impossível” .	potência	4	0:força
+Alguns historiadores acreditam que a personalidade do coelho foi influenciada por um personagem de Walt Disney , a lebre `` Max Hare '' .	historiadores	1	0:historiógrafo
+É como se a humilhação fosse uma estratégia de poder .	estratégia	7	0:manobra	0:estratagema	0:artimanha
+A situação da espécie só piora com o cultivo de arroz às margens dos rios e dentro das reservas indígenas , lugares onde ela habita .	cultivo	8	0:plantio
+As principais evidências estão no município de Brejo do Piauí , no sul do estado .	evidências	2	0:prova
+Outras evidências da presença da tradição Aratu no Vale do Paraíba já haviam sido encontradas nos municípios de Santa Branca e Caçapava .	evidências	1	0:prova
+Os vídeos mostram o passo a passo dos experimentos , e as instruções são dadas com clareza .	experimentos	8	0:experiência
+A Terra demora 24 horas para completar um giro em volta de si mesma .	giro	8	0:volta
+Poucos anos depois , passou a trabalhar como funcionário público em um departamento de obras em São Paulo .	departamento	12	0:repartição
+Quase todos os locais abertos para visitação são de propriedade particular e estão dentro de fazendas .	visitação	6	0:visita
+Curiosidade : A única previsão do futuro seguramente atribuída a Vanga é a de que , em 200 anos , já teremos feito contato com extraterrestres	seguramente	7	0:certamente
+`` Agora sei quem verdadeiramente matou meu pai” – , pensou o filho do gavião .	verdadeiramente	4	0:realmente
+Outra tarefa será descobrir se as mães mandam os estímulos intencionalmente .	intencionalmente	10	0:propositalmente	0:propositadamente
+Contudo , ainda que obviamente encantado pela moça , Edward insiste que não	obviamente	4	0:evidentemente	0:claramente
+Mais estudos levaram à conclusão de que as competições eram inicialmente voltadas para os jovens .	inicialmente	10	0:primeiramente
+Aos poucos , a areia se acumula em grandes montes , que mudam constantemente de lugar pela ação contínua dos ventos .	constantemente	13	0:continuamente	0:sempre	0:incessantemente
+Sem nome oficial , foram chamados provisoriamente de ( ou ‘bolas amarelas’ , na tradução para o português ) .	provisoriamente	6	0:temporariamente
+São comumente conhecidas como bondinho elétrico ou trem de ferro .	comumente	1	0:popularmente	0:vulgarmente
+É , quem diria que , na busca da resposta para uma questão aparentemente simples – por que algumas aves põem mais ou menos ovos ?	aparentemente	13	0:supostamente
+Colocando um palitinho na parte em que é dia e girando lentamente a Terra veremos que ele vai perdendo a luminosidade direta do Sol , ou seja , a região onde ele está vai escurecendo , até que fica totalmente sem luz , o que representa a noite .	lentamente	11	0:devagar	0:vagarosamente
+Na mitologia , o local pertencia originariamente a Gaia ( divindade que representa a Terra ) e era guardado por sua filha , a serpente Píton .	originariamente	6	0:primitivamente
+E como bom soldado que é , sua arma descansa calmamente em sua cintura .	calmamente	10	0:placidamente	0:serenamente	0:tranqüilamente
+Conforme Stadler , macho e fêmea trabalharam ininterruptamente em sistema de rodízio para chocar os dois ovos , que foram colocados em 19 de novembro .	ininterruptamente	7	0:continuadamente
+Nevado recomenda citar exemplos que as crianças tenham vivido anteriormente , como a morte de animais de estimação ou histórias que tenham visto em filmes ou livros .	anteriormente	9	0:antes
+E seu autor é muito querido na França , onde foi carinhosamente apelidado de `` Saint-Ex” .	carinhosamente	11	0:afetuosamente	0:ternamente	0:amorosamente
+Com o uniforme , os alunos não podem expressar livremente sua personalidade .	livremente	9	0:espontaneamente
+Essas células são bastante sensíveis e ajudam os gatos a se orientar , pois captam mínimas vibrações do ar .	captam	14	0:perceber
+Desde o início de 2004 , esses robôs estão explorando a superfície de Marte e coletando material para estudos científicos .	coletando	15	0:recolher	0:colher
+Já os índios ticuna , que vivem no Amazonas e no Acre , enxergam uma briga entre um tamanduá e uma onça na região do céu que engloba as constelações do Cruzeiro do Sul e do Escorpião .	engloba	27	0:conter	0:abranger	0:incluir	0:compreender
+É a segunda vez que o grupo recorre a uma `` vaquinha on-line '' .	recorre	7	0:apelar
+Em três viagens realizadas entre 2011 e 2013 , os cientistas coletaram cerca de 500 fósseis .	coletaram	11	0:recolher	0:pegaram
+É nessa hora que as crianças costumam resgatar uma brincadeira antiga : as cabaninhas .	resgatar	7	0:recuperar
+No que o Google Street View difere das câmeras de segurança que nos vigiam die e noite , em todo lugar ?	difere	6	0:divergir
+`` Queremos difundir a música clássica brasileira '' , diz a professora .	difundir	2	0:divulgar
+Ao fim de cada experiência , um breve parágrafo expõe o princípio científico em que se baseia a atividade .	baseia	16	0:fundamentar
+A areia não retém a água .	retém	3	0:segurar
+Fato é que quando o movimento se difundiu por aqui , deu espaço para bandas como Restos de Nada , Joelho de Porco e , mais tarde , grupos mais famosos como Inocentes , Replicantes e Cólera .	difundiu	7	0:popularizar	0:espalhar
+A descoberta do grandalhão aconteceu quando , escavando na região por quase dois anos , a paleontóloga Carolina Acosta Hospitalache , da Universidade Nacional de La Plata , encontrou vários ossos que pertenciam a essa espécie de pinguim .	escavando	7	0:cavar
+Durante a Conferência das Nações Unidas sobre o Desenvolvimento Sustentável ( Rio+20 ) , que aconteceu no ano passado no Rio de Janeiro , 90 crianças participaram do projeto +Criança na Rio+20 e elaboraram uma carta para a Terra , com sugestões de como cuidar do nosso planeta .	elaboraram	33	0:preparar	0:escreveram
+É um livro que tem por objetivo entreter as pessoas , mostrando como a pesquisa dos fósseis pode ser fascinante .	entreter	7	0:divertir
+Será que o novo observatório será capaz de solucionar esse mistério ?	solucionar	8	0:resolver	0:esclarecer
+Quando alguém aumenta a aposta , os demais participantes devem desistir ou pagar até igualar o novo valor .	igualar	14	0:equiparar
+Mesmo sendo um livro para crianças , eu não quis suavizar as lendas que foram criadas para assustar .	suavizar	10	0:amenizar
+A medida que ela vai se expandindo para outros pontos do município , vão também aumentando os problemas locais .	expandindo	6	0:propagar	0:disseminar	0:espalhar
+Como fotógrafo , eu tenho que viajar bastante , procurando assuntos interessantes e captando a beleza de cada coisa ou lugar .	captando	13	0:apreender
+Isso acontece porque Mercúrio não possui uma atmosfera suficiente para reter em sua superfície o calor gerado pelo Sol .	reter	10	0:conservar	0:manter	0:segurar
+Essa questão intrigou os cientistas por muito tempo .	intrigou	2	0:inquietar
+No caso de Soluço e sua turma , ele mostra dragões nunca vistos e lugares para além de Berk , expandindo os horizontes das crianças .	expandindo	20	0:ampliar	0:alargar
+Mike Brown , um dos três pesquisadores que descobriram o astro , no entanto , argumenta que o fato de as pessoas reconhecerem Plutão como um planeta permite que o 2003 UB313 também seja classificado assim , já que se trata do maior objeto encontrado em órbita do Sol desde a descoberta de Netuno e da sua lua Tritão em 1846 e maior até do que o próprio Plutão .	argumenta	15	0:alegar
+O tratamento deles é bem similar ao dos humanos , mas , em alguns casos , os efeitos das doenças podem ser bem diferentes .	similar	5	0:semelhante
+O comportamento foi observado apenas em formigas-lava-pés , conhecidas também como formigas-de-fogo – por sua picada dolorosa – e encontradas em gramados do Sudeste e do Centro-Oeste do Brasil .	dolorosa	16	0:doído	0:dolorida
+São métodos agressivos , dolorosos e que não garantem a pele normal de volta .	dolorosos	4	0:doído	0:doloridos
+Tomara que dê certo , porque é meu livro favorito .	favorito	9	0:preferido	0:predileto
+A personagem também pode ser interpretada como uma criança que se sente poderosa pelos gestos mágicos - com seu poder descomunal , pensa que tem poder ilimitado	descomunal	20	0:colossal	0:imenso	0:enorme
+Peixes temidos , eles causam pânico por onde passam .	temidos	1	0:assustador
+E qual não é nossa surpresa ao serem novamente encontrados vivendo em algum lugar longínquo da Terra !	longínquo	14	0:longe
+Além de representar o país , ele enfrenta perigosas batalhas contra vampiros sanguinários .	sanguinários	12	0:cruel	0:sanguinolento
+Mas sabia que criaturas tão bizarras quanto os extraterrestres de ficção científica são encontradas aqui mesmo na Terra ?	bizarras	5	0:exótico	0:esquisito
+`` # PurosME Roubar o DeLorean de `` De Volta para o Futuro” e me programar para 2013 com um bom estoque de objetos vitais na mala ! ” – Tatiana Jimenez Inda @ LeitoraViciada2	vitais	24	0:essencial
+Quando você é escalado num filme tão monumental e aguardado quanto este , surge um enorme holofote sobre sua cabeça .	monumental	7	0:grandioso	0:esplêndido
+Ela conseguiu abrir a porta com seu moderno canivete abridor de portas que havia escondido em seu quarto para eventuais necessidades .	eventuais	19	0:ocasional
+Foram sucessivos erros de administração .	sucessivos	1	0:consecutivo	0:freqüente	0:seguido
+O fator decisivo para os Aliados vencerem a guerra foi que os Estados Unidos e a Inglaterra tinham muito mais dinheiro para manter seus exércitos do que os países do Eixo .	decisivo	2	0:crucial
+`` Heelflip '' é uma manobra na qual , durante um salto , o skate dá um giro de 360o .	giro	17	0:volta
+Para o preparo são necessárias uma cuia , uma bomba , erva-mate moída e água morna .	preparo	2	0:preparação	0:elaboração
+Aí está a sua marca individual , sua impressão digital , identificação que nenhuma outra pessoa em todo o mundo tem igual !	identificação	11	0:identidade
+`` Ela abriu caminhos para outras mulheres no campo da história natural , da museologia e no mundo público de uma maneira mais ampla” , conta a historiadora Lia Gomes Pinto de Sousa , da Casa de Oswaldo Cruz / Fiocruz .	historiadora	27	0:historiógrafo
+A paixão pelo boi , que também se expressa nas casas , unhas das mulheres e roupas , pintadas nas cores do boi preferido , chega ao auge em junho , durante o Festival Folclórico de Parintins .	auge	27	0:apogeu	0:ápice	0:máximo
+( Esta é uma reedição do texto publicado na CHC 68 )	reedição	4	0:relançamento
+Se não existe nenhum consenso , o máximo que se pode afirmar é que cada oceano possui algumas características que os diferenciam .	consenso	4	0:entendimento	0:concordância
+As atividades mais citadas por elas foram a economia de energia elétrica e a redução no desperdício de água .	redução	14	0:diminuição
+O polvo é um animal fascinante e , além de seus oito braços , tem outra característica incrível : a camuflagem .	camuflagem	20	0:disfarce
+Elas também são bastante utilizadas como medida de segurança , como na indústria , para evitar a descoberta de uma fórmula nova ou de um produto novo que será lançado , e no exército , em combates ou na defesa do país .	fórmula	20	0:receita
+Atualmente , alguns paleontólogos — cientistas que estudam fósseis de animais e vegetais — estão analisando fezes de bichos que já desapareceram da Terra há milhões de anos .	paleontólogos	3	0:paleontologista
+O passaporte para o passeio pela nossa vizinhança cósmica custa apenas duas ou três folhas usadas de papel ofício , pedacinhos de papel alumínio e barbante .	vizinhança	7	0:circunvizinhança	0:proximidade
+Com o passar do tempo , o governo russo reduziu sua autonomia e eles se transformaram em regimentos de soldados .	autonomia	11	0:independência
+Além disso , objetos frios , como planetas , emitem infravermelho e , para enxergar objetos distantes no Universo , também é preciso utilizar essa forma de luz , pois esses corpos celestes ficam `` avermelhados” devido à expansão do Universo .	expansão	38	0:expandimento
+Pense bem : será que , sem a anestesia , a maioria dos nossos avanços na medicina seria possível ?	avanços	14	0:progresso
+Esse bicho esquisito – que , daqui em diante , chamarei de T. adhaerens – foi descoberto no Mar Adriático pelo zoólogo alemão Franz Schulze , e ganhou seu nome em 1883 .	zoólogo	21	0:zoologista
+Sua queda após o giro emite sons úteis na comunicação desta espécie , que costuma andar em grupos grandes , com cerca de 2 mil indivíduos .	giro	4	0:volta
+A contribuição dos negros na nossa cultura não foi apenas na religião .	contribuição	1	0:contributo	0:colaboração
+O jogo foi desenvolvido pelo historiador Laurentino Gomes , autor dos livros 1808 e 1822 , sobre a história do nosso país .	historiador	5	0:historiógrafo
+O tema foi escolhido para relembrar a história do parque , que abrigou , de 1896 a 1941 , o Aquário de Nova York .	relembrar	5	0:recordar
+A evolução desafia a religião ?	desafia	2	0:afrontar
+Então , saiba que ela , na verdade , retrata o que acontece não no cinema , mas na Casa da Ciência , uma instituição mantida pela Universidade Federal do Rio de Janeiro na capital fluminense , onde está em cartaz a exposição .	retrata	9	0:revelar
+Sem saber o que você quer , é difícil vasculhar os perfis em busca daquelas pessoas que realmente combinam com você .	vasculhar	9	0:analisar	0:sondar
+Já o presépio , que retrata o momento do nascimento do menino Jesus e que hoje em dia tem diferentes formas e tamanhos , foi criado por São Francisco de Assis , no século 13 , como um teatro , encenado por camponeses , servos e pastores .	retrata	5	0:mostrar
+As duas categorias se fundem em determinadas situações .	fundem	4	0:combinar	0:juntar
+O espírito o atormentou até fora do jogo .	atormentou	3	0:incomodar	0:torturar	0:importunar
+Os plasticizantes amaciam e , junto com os minerais , tornam a mistura homogênea .	amaciam	2	0:suavizar
+Quem patenteou o projeto desse zíper primitivo , que tinha pequenos ganchos e argolas para ser fechado , foi o engenheiro americano Whitcomb Judson .	patenteou	1	0:registrou
+A seção não apenas resume o fato de forma mais acessível , mas pretende ajudar na formação do leitor iniciante .	resume	4	0:sumarizar	0:sintetizar
+`` Para evitar desastres , estamos tentando integrar os sertanejos ao projeto.” Uma ideia é pagar aos agricultores a mesma quantidade de milho devorada pelas aves – o que exige recursos financeiros .	integrar	7	0:incorporar
+Mas o que aconteceu em Norfolk , Inglaterra , no dia de Natal em 1994 , desafia as probabilidades .	desafia	16	0:afrontar
+Quando se diz que a vida saudável requer atividades físicas , não significa que somos obrigados a nos matricular em clubes ou academias .	requer	7	0:exigir	0:pedir
+Ao mesmo tempo , a medula óssea começa a se regenerar .	regenerar	10	0:recuperar	0:restaurar
+Para quem não conhece o jogo , uma partida pode parecer entediante a princípio .	entediante	11	0:chato	0:monótono	0:maçante	0:tedioso
+Quando os recursos ( os alimentos , por exemplo ) ficaram mais escassos , os povoados começaram a declarar guerras com outras cidades para , se ganhassem , exigirem delas pagamento de um imposto e assim manter seu estilo de vida .	escassos	12	0:raro	0:minguado
+Entre os mais bizarros , há casos em que os times empatados têm que jogar de novo entre si .	bizarros	3	0:estranho	0:esquisito
+Pesquisa realizada mostra que , além do espaço , o tempo para brincar também está escasso .	escasso	15	0:raro	0:minguado
+Os resultados , você já sabe , foram surpreendentes .	surpreendentes	8	0:espantoso	0:extraordinário
+Já a intradérmica , aplicada na pele , é a menos dolorosa .	dolorosa	11	0:doído
+Mesmo que aquela cena engraçada do seu filme favorito seja ótima para se inspirar , ela também atrapalha .	favorito	8	0:preferido	0:predileto
+A letra A , outra das mais comuns , ficou relegada ao dedo mínimo esquerdo , o menos hábil de todos.Em 1932 , depois de 20 anos de estudo , August Dvorak , também americano , criou o teclado que leva o seu nome , extremamente eficiente para língua inglesa : 3 000 palavras podem ser escritas com as letras da fileira principal ( contra 50 no teclado QWERTY ) e a mão direita é a mais usada .	hábil	18	0:ágil
+Mesmo que sejam parecidos entre si , cada um deles possui uma técnica peculiar .	peculiar	13	0:específico	0:particular	0:característico	0:próprio
+Hoje são produzidas com materiais sintéticos , sobretudo bakelite .	sintéticos	5	0:artificial
+1554 - o médico alemão Johannes Lange descreve uma doença bizarra : a clorose , que atacava quem não fizesse sexo !	bizarra	10	0:esquisito
+O cheiro ruim também afasta eventuais predadores .	eventuais	5	0:ocasional
+Também é possível usar cilindros aquecidos giratórios para secar um alimento líquido .	aquecidos	5	0:esquentado
+Já outro gênero , cujas espécies geralmente possuem cores metálicas reluzentes , foi batizado de .	reluzentes	10	0:radiante	0:brilhante
+Jurou que não o faria , ainda mais porque ele não conseguia entender tanta preocupação com higiene já que , na escola , só tinha de lavar os pés uma vez por mês , o que , até mesmo na sua opinião , era asqueroso .	asqueroso	44	0:repugnante	0:repulsivo
+A Betelgeuse tem esse tamanho todo porque é uma estrela velha , do tipo gigante vermelha , que durante o último bilhão de anos ( de uma vida total de cerca de 10 bilhões ) vem passando por um crescimento descomunal .	descomunal	40	0:colossal	0:incomensurável	0:imenso	0:enorme
+Não é um trabalho entediante .	entediante	4	0:chato	0:monótono	0:maçante	0:tedioso
+Cada animal deste livro tem uma característica admirável .	admirável	7	0:maravilhoso	0:fenomenal
+Pesquisa realizada mostra que , além do espaço , o tempo para brincar também está escasso .	escasso	15	0:raro	0:minguado
+Hoje , a religião já tem cerca de 1,3 bilhão de adeptos .	adeptos	11	0:fiel	0:seguidor
+( Esta é uma reedição do texto publicado na . )	reedição	4	0:relançamento
+O tatu-bola está na lista de ameaçados de extinção devido ao avanço do desmatamento na região , no norte e o nordeste do país , e o hábito local de caçar o animal para o consumo na alimentação .	avanço	11	0:crescimento
+A melhor forma de combater essas doenças é a prevenção .	prevenção	9	0:precaução	0:cuidado
+Para participar do `` MasterChef Júnior '' , todas as crianças tiveram treinamento de segurança .	treinamento	12	0:treino	0:exercício
+Depois que você estiver craque em trabalhar com escala , use a imaginação para fazer o mapa da sua vizinhança .	vizinhança	19	0:circunvizinhança
+É como se a humilhação fosse uma estratégia de poder .	estratégia	7	0:manobra	0:artimanha
+Os historiadores não têm muita certeza sobre quando , como e onde surgiu essa batalha fascinante .	historiadores	1	0:historiógrafo
+`` No Brasil , a modalidade é considerada amadora , não há liga profissional . ''	modalidade	5	0:categoria
+Mas há uma pista para essa suspeita : na década de 80 , nos EUA , um experimento não deixou os ratos de laboratório dormirem por dias .	experimento	17	0:experiência
+`` No Brasil , a modalidade é considerada amadora , não há liga profissional . ''	modalidade	5	0:categoria
+A intenção , com isso , é facilitar sua degradação no ambiente – se funciona ou não , os pesquisadores ainda não conseguiram comprovar .	degradação	9	0:deterioração	0:putrefação
+Uma semana depois ... Rex e Diná chamaram Zíper para ver o experimento .	experimento	12	0:experiência
+Mas Escócia , País de Gales e Irlanda do Norte também têm assembléias nacionais , com certa autonomia para tratar de questões mais locais , como saúde .	autonomia	17	0:liberdade	0:independência
+Crianças pequenas e vovôs são muito bem-vindos na arena de treinamento .	treinamento	10	0:treino	0:exercício
+É isso o que mostra um ensaio fotográfico feito pela agência `` Reuters '' , que captou como as crianças de diversas partes do mundo têm aula .	captou	16	0:registrou
+Cada grupo deve retirar o seu fóssil de dentro do copo plástico , quebrando a leve camada de cimento que recobre a folha , usando a tesoura ou a faca ( sem ponta , não esqueçam ! ) .	recobre	20	0:cobrir	0:encobrir
+A Sony está tentando aplacar a ira dos consumidores oferecendo grátis doisgames para PS3 e PSP ( de uma lista de cinco para cada sistema ) , além de seguro grátiscontra roubo de dados e um mês de assinatura premium ( que inclui acesso a conteúdosexclusivos , entre outros benefícios ) .	aplacar	4	0:acalmar	0:diminuir
+É como se ele realmente `` expressasse” um sentimento , uma intenção : a de retratar sua visão sobre as coisas .	retratar	15	0:mostrar	0:demonstrar	0:descrever
+Ao manusear uma borboleta , fragmentos da asa deste inseto podem ficar presos na sua mão .	manusear	1	0:manejar
+Na mata , ela é um bicho bastante tímido , que costuma demarcar o seu território com urina .	demarcar	12	0:marcar
+Além de ser fácil de manusear , ele permite ver as crateras lunares e alguns satélites de Júpiter” .	manusear	5	0:manejar
+O jovem Gilles se consagrou logo em suas primeiras campanhas militares .	consagrou	4	0:destacar
+Na semana passada , a CHC lançou aqui um desafio para os leitores – observar desenhos deixados por habitantes pré-históricos da Serra da Capivara e tentar adivinhar o que eles retratam .	retratam	30	0:mostrar	0:revelar	0:descrever
+Depois dela , outras missões famosas - as naves Viking 1 e 2 ( entre 1975 e 1982 ) , o veículo de exploração Mars Pathfinder ( 1996 ) e o satélite Mars Odissey ( 2001 ) - também captaram muitas imagens para estudar a composição química e o clima do planeta .	captaram	39	0:registraram
+[ 1809-1849 ] , que elaborou uma teoria a respeito do conto , dizia que essa narrativa deveria ser construída com	elaborou	5	0:estruturar	0:criar	0:construir
+Apesar de ser muito sensível à dor , o saco consegue se preservar de danos maiores por estar suspenso , o que amortece o trauma .	amortece	22	0:suavizar
+`` Vamos aprimorar o robô e , independente de quem ganhar , já combinamos que vamos participar de novo no ano que vem '' , conclui Pedro .	aprimorar	2	0:aperfeiçoar
+Se a pressão é menor , o gás consegue se expandir e passa a ocupar um espaço maior .	expandir	10	0:dilatar
+Ele levou seis anos para aperfeiçoar um objeto que hoje parece tão simples .	aperfeiçoar	5	0:refinar	0:aprimorar
+O problema é que , quando alguém está com medo do animal , costuma fazer movimentos bruscos , como levantar a mão .	bruscos	16	0:abrupto
+— Não é um gigante , mas um sapo nojento .	nojento	9	0:repugnante	0:asqueroso
+No entanto , um grupo de cientistas fez o que parecia impossível : criou uma pasta de dentes com muito menos flúor , mas muito mais eficaz contra as cáries .	eficaz	26	0:eficiente
+Geralmente tão tímido e arisco , o animal possui uma relação especial com os funcionários do Santuário .	arisco	4	0:esquivo
+A alavanca é simplesmente uma barra rígida apoiada sobre um ponto fixo .	rígida	6	0:duro
+Apesar de muito eficaz , tem uma limitação : a mudança de cor só acontece do preto para o branco .	eficaz	3	0:eficiente
+Além disso , a temperatura fica estável enquanto a água ferve , o que nos permite medir com precisão o seu valor .	estável	6	0:invariável	0:constante
+Eles começaram tudo do zero , pois era escasso o conhecimento científico sobre as plantas daquele ecossistema .	escasso	8	0:pouco
+Esse `` Niemeyer do Canadá '' adora curvas e formas exóticas .	exóticas	10	0:diferentes	0:original
+Os recursos de um smartphone — jogos , GPS , internet , redes sociais — combinados a um preço acessível são muito mais atraentes para a população .	atraentes	23	0:convidativo
+Outro teste feito pela equipe também serviu para comprovar que essas reações contraditórias ajudam a controlar os sentimentos .	contraditórias	12	0:paradoxal	0:oposto	0:contrário	0:antagônico
+Uma vez por mês , você vai ter de encarar uma faxina , lavando a gaiola e tudo o que tem dentro .	faxina	11	0:limpeza
+Aqui , os pesquisadores da Fiocruz já começaram a testar a estratégia .	estratégia	11	0:artifício
+Esta locomoção só é possível porque a pele do anfisbênio não está presa ao seu tronco , o que facilita o deslocamento do animal .	deslocamento	21	0:movimento	0:movimentação
+No entanto , apenas conhecer a anatomia dessas asas coloridas não é suficiente para ter sucesso na construção dos robôs .	anatomia	6	0:constituição
+Ele pode submergir a até 50 m abaixo do nível do mar , com autonomia para cerca de quatro horas de mergulho	autonomia	14	0:auto-suficiência
+Além de promover a camuflagem , o material é flexível e tão fino quanto uma folha de papel .	camuflagem	4	0:disfarce
+Assim acontece com os relatos de viagem , o registro de dias , meses , anos , passados no deserto , na floresta , no mar ...	relatos	4	0:narração
+Com a ajuda dessa vizinhança seca , um deserto se formaria mais facilmente .	vizinhança	4	0:circunvizinhança
+Já Hydra iheringi presta homenagem ao zoólogo brasileiro Rodolpho Theodor Wilhelm Gaspar von Ihering ( 1883–1939 ) , enquanto o nome de Hydra intermedia ( do latim `` intermediária” ) indica semelhanças desta espécie com outras .	zoólogo	6	0:zoologista
+Comparadas a biscoitos recheados , as barrinhas de cereais , práticas e com fibras , representaram um avanço nutritivo .	avanço	17	0:melhoria	0:progresso
+`` Eram três castanheiras e algumas pontes para o deslocamento entre elas” , conta .	deslocamento	9	0:movimentação	0:circulação
+Deixe as duas metades em algum lugar aberto durante uma hora e volte para checar o que aconteceu .	checar	14	0:averiguar	0:verificar
+Esse povo tem se preocupado em encontrar outras formas de autossustentação a fim de amenizar a falta de caça e pesca em determinadas épocas do ano .	amenizar	14	0:atenuar
+A seguir , você vai coletar e escrever um conto popular , mas , antes , vai	coletar	5	0:recolher
+Ainda bem que ela conta com um bico fino e supercomprido para vasculhar o lodo .	vasculhar	12	0:remexer
+Mantos de gelo com mais de 1 milhão de quilômetros quadrados avançavam sobre regiões mais quentes , escavando a superfície em que deslizavam .	escavando	17	0:cavar	0:aprofundar
+Os animais serviam para embelezar , como as araras , os tucanos e até os periquitos , ou para mostrar respeito à natureza - filhotes de macacos , por exemplo , eram adotados pela aldeia caso sua família tivesse sido morta por caçadores	embelezar	4	0:enfeitar	0:ornamentar	0:adornar
+Além disso , conseguiu retratar muito bem a época em que viveu !	retratar	4	0:descrever
+Segundo Diógenes , contar a história de um país desde a era dos dinossauros requer o esforço de muitos pesquisadores , que passam as informações de uma geração para outra ao longo de muito tempo .	requer	14	0:demandar	0:exigir
+A própria Revolução Industrial ajudou a aperfeiçoar os instrumentos de sopro , tornando necessário aumentar o número das cordas para manter o equilíbrio .	aperfeiçoar	6	0:aprimorar
+A cor amarela desperta a fome e o vermelho induz as pessoas a comerem mais rapidamente	induz	9	0:levar
+Até agora , a artista já elaborou cerca de duas mil obras de arte nos vidros de laboratório .	elaborou	6	0:criar
+Água amortece quedas de qualquer altura	amortece	1	0:suavizar	0:abrandar	0:atenuar
+Mas para que serviria vasculhar o centro da Lua ?	vasculhar	4	0:explorar	0:examinar	0:sondar
+Veja outros casos bizarros em que coisas opostas são expressas por um único termo	bizarros	3	0:estranho	0:esdrúxulo	0:esquisito
+`` Apesar de os registros serem escassos , conseguimos fazer uma comparação com outros documentos da língua geral paulista” , explica a pesquisadora .	escassos	6	0:pouco
+O Zoológico de São Paulo , que tem onze animais salvos das mãos de traficantes , espera em breve conseguir os primeiros filhotes .	salvos	10	0:libertado
+`` Havia grandes rios e florestas , sendo um local muito propício para esses animais , que se alimentavam de insetos” , comenta .	propício	11	0:apropriado	0:adequado
+Muita gente pensa que por causa disso a Legião aceita um monte de bandidões sanguinários , fugidos de seus países por causa de problemas com a lei .	sanguinários	14	0:cruel	0:carniceiro
+Cada um deles pensa de um jeito peculiar e tem sempre algo a acrescentar às ideias de Mafalda .	peculiar	7	0:particular	0:próprio
+A partir de 1907 , a recém-construída Avenida Rio Branco virou passarela dos pomposos carros alegóricos .	pomposos	13	0:luxuoso	0:majestoso
+7 curiosidades bizarras sobre a Austrália	bizarras	2	0:esquisito
+Ele chegou a declarar : `` A saída brusca do colégio teve influência enorme no desenvolvimento dos meus estudos e de toda minha vida .	brusca	8	0:repentino	0:inesperado	0:imprevisto
+- Quais são os esportes mais bizarros do mundo ?	bizarros	6	0:estranho	0:esquisito
+`` Já os indivíduos que conseguem alcançar um tamanho maior têm maiores chances de sobrevivência , pois a sua carapaça rígida os protege .	rígida	20	0:duro
+Depois de mergulharem em livros , sites e revistas , elas notaram que a maquiagem passou por inúmeras mudanças ao longo dos anos , desde a forma de fabricação ao tipo de pessoa que usa .	inúmeras	17	0:incontável
+Anos depois , espalhou a lenda , ainda mais bizarra , de que havia implantado uma língua de vaca e , por esse motivo , teria um órgão muscular de 17 cm .	bizarra	9	0:esquisito
+E veja que audacioso : a equipe de George analisou praticamente tudo que já havia sido escrito sobre minhocas em 53 artigos científicos , publicados entre 1910 e 2013 .	audacioso	3	0:audaz
+`` Em alto mar , os pinguins podem enfrentar problemas como tempestades , mudanças bruscas de temperatura ou manchas de óleo e até lixo .	bruscas	14	0:repentino
+Isto é , se tomarmos os devidos cuidados com o planeta , cujos recursos naturais estão cada vez mais escassos .	escassos	19	0:minguado
+Os sabiás são meus passarinhos prediletos e , entre eles , o sabiá-laranjeira é sem dúvida um dos mais bonitos : imponente , o peito cor de laranja , sempre com um ar de ousadia , quer ciscando pelo terreiro ou cantando sobre um abacateiro .	imponente	21	0:majestoso
+Ignorar as ofensas e rir dos comentários raivosos que se multiplicam na internet também pode ser uma solução .	raivosos	7	0:enfurecido	0:enraivecido
+O procedimento aumenta suas chances sobrevivência .	procedimento	1	0:conduta
+Encontrar indícios de que já houve água líquida por lá – como os achados pela sonda Phoenix – traz novas esperanças aos pesquisadores .	indícios	1	0:indicação
+Além disso , qualquer quebra na cadeia alimentar coloca sua posição em risco .	quebra	4	0:interrupção
+Após encontrar o fóssil de um grilo que viveu há 165 milhões de anos , cientistas chineses perceberam que , pela anatomia das asas , o inseto pré-histórico também produzia sons .	anatomia	21	0:constituição
+Se possível , levar o animal para identificação – isso pode auxiliar o médico que ficará responsável pelo tratamento .	identificação	7	0:reconhecimento
+( Universidade de São Paulo ) , registrar o que se ouve em aulas e palestras facilita o aprendizado .	palestras	15	0:conferência
+A lógica é a mesma de mergulhar numa piscina : se você for de cabeça , vai `` furar '' a água com mais eficiência que quem se espatifar de barriga .	eficiência	24	0:eficácia
+Embora apenas alguns ossos tivessem sido achados , eles davam indícios de terem pertencido ao maior dinossauro carnívoro já encontrado até então .	indícios	10	0:sinal
+Para ele as duas características principais de um atleta de alto nível é treinamento pesado e disciplina .	treinamento	13	0:treino	0:exercício
+Tive a oportunidade de ver o que outros países no mundo estão fazendo sobre divulgação científica .	divulgação	14	0:disseminação
+Evitar o desmatamento , porque o solo sem vegetação é levado pelas chuvas e não serve mais para o cultivo .	cultivo	19	0:plantio	0:lavoura
+Mesmo assim , em 1962 , os presos Frank Morris e Clarence e John Anglin escavaram o chão de suas celas e chegaram ao mar .	escavaram	15	0:cavar
+Um estudo recém-divulgado aponta que a presença de um melhor amigo suaviza o efeito que as experiências negativas têm sobre nós .	suaviza	11	0:abrandar	0:diminuir
+Nos exercícios de guerra , eles têm de fazer de tudo : rastejar na lama , pernoitar dentro de pântanos , atravessar túneis de gás e até caçar o próprio alimento .	pernoitar	16	0:dormir
+Mais que um amigo das abelhas , esse profissional trabalha para que elas procriem , se desenvolvam e produzam mel na mais perfeita segurança .	procriem	13	0:reproduzir
+Por que os primos curiosos e os cavalos nativos desapareceram é uma grande curiosidade dos pesquisadores , que já formularam duas hipóteses sobre o tema .	formularam	19	0:apresentar
+Com furadeiras gigantes que escavaram a terra abaixo do leito marítimo .	escavaram	4	0:cavar
+O trabalho não é fácil e demanda muita força de vontade .	demanda	6	0:exigir	0:requerer
+`` É complicado dizer qual é a melhor e até o que é uma boa escola , pois isso reflete o que a sociedade demanda e muda com o passar do tempo '' , explica Alfredo Matos Moura Jr. , diretor do Colégio de Aplicação da UFPE .	demanda	24	0:buscar	0:exigir	0:pedir
+Todas têm datas específicas do ano para sua aplicação e a maioria demanda três doses e um reforço .	demanda	12	0:necessitar	0:exigir
+Estes , então , realizam uma série de movimentos instintivos , que fazem o corpo do animal recuperar o equilíbrio .	instintivos	9	0:inconsciente
+A pele espinhosa ainda ajuda na proteção contra animais à procura de um golinho d'água na polpa do cacto .	espinhosa	2	0:espinhento
+Depois de um tempo , retiram os pés com um movimento brusco '' , explica Leonardo Bôscoli Lara .	brusco	11	0:abrupto
+Ele representa ¾ de toda matéria conhecida como elementar , além de ser o principal combustível na formação de estrelas .	elementar	8	0:primordial
+Nela , encontramos plantas e animais que se destacam por serem muito pequenos , muito compridos ou mesmo improváveis de achar .	improváveis	18	0:difícil
+Estima-se que existam no máximo 3 mil hipos pigmeus no planeta .	pigmeus	8	0:anão
+Pedro venceu na categoria de 11 a 14 anos , com um desenho dos Beatles , sua banda favorita .	favorita	18	0:preferido	0:predileto
+Muitos consumidores insatisfeitos desistem de reclamar por não saber onde ou como fazer isso .	insatisfeitos	2	0:descontente
+O estudo concluiu também que algumas consequências de se viver sem a gravidade são as mesmas de quando envelhecemos ou levamos uma vida sedentária .	sedentária	23	0:inativo
+Van Gogh deixou para a humanidade uma riqueza incontável , em apenas dez anos de pintura .	incontável	8	0:inumerável
+Foi quando se descobriu que esses objetos difusos eram galáxias , com bilhões de estrelas girando ao redor de um centro comum	difusos	7	0:esparso
+`` Estudos têm demonstrado que a Lua pode ter recursos benéficos para missões tripuladas a Marte .	benéficos	10	0:bom
+E aquela imagem do sonâmbulo caminhando com braços estendidos e de olho fechados não passa de mito !	estendidos	8	0:estirado
+Em resumo , novos países resultantes da divisão firmam acordos internacionais definindo quais deles serão herdeiros da nação dissolvida .	resultantes	5	0:decorrente
+Embora nossa mão não seja 100 % confiável para medir temperaturas , podemos confiar nela em algumas situações de temperaturas extremas .	confiável	7	0:fidedigno
+Eram seres fabulosos da mitologia grega , metade homem e metade cavalo , que habitavam as regiões da Arcádia ( Peloponeso Central ) e Tessália ( sul da Macedônia ) .	fabulosos	2	0:fantástico
+Na melancólica cidade de Mar-Nublado , a menina Tilda já se acostumou a ver a plaquinha `` Vende-se” , na casa ao lado .	melancólica	1	0:tristonho	0:triste
+`` O frio impediu que os blocos de gelo resultantes do Big Bang - a megaexplosão que teria criado o universo - se descongelassem .	resultantes	9	0:decorrente
+A ciência tem demonstrado que a vida se originou na água e que ela constitui a matéria predominante nos organismos vivos .	predominante	17	0:preponderante	0:dominante
+São auxiliados pelas equedes ( ajudantes ) .	auxiliados	1	0:assistido	0:ajudado
+No Brasil , ele ganhou ainda mais importância quando o samba de roda do Recôncavo Baiano e as matrizes do samba do Rio de Janeiro foram registrados , pelo Instituto do Patrimônio Histórico e Cultural do Brasil ( Iphan ) , como bem imaterial do país .	imaterial	43	0:impalpável
+O árbitro aparece apenas em 1868 e , mesmo assim , ele apitava pouco : ficava de fora do campo e não tinha autonomia para marcar infrações .	autonomia	23	0:liberdade
+Seu uso deu maior autonomia aos submarinos , considerados uma das armas alemãs mais poderosas durante a guerra , temida por navios de todo o mundo .	autonomia	4	0:independência
+Então , o que pudermos fazer para facilitar a jornada dessas viajantes é bem-vindo !	jornada	9	0:viagem
+Mesmo com muitos avanços na ciência , é preciso que cada um faça a sua parte no esforço de salvar o planeta !	avanços	3	0:progresso
+Na madrugada do dia 6 de agosto , após quase nove meses de viagem e um complexo procedimento de aterrissagem , a sonda deu início a uma grande investigação sobre o planeta vermelho .	procedimento	17	0:método
+Ali cada um pode dar sua contribuição para ajudar a resolver várias questões .	contribuição	6	0:auxílio	0:contributo	0:colaboração
+Para as pessoas do final do século 19 , a expansão das linhas de trens e barcos a vapor e a abertura do canal de Suez , no Egito , ligando o mar Mediterrâneo ao mar Vermelho , de fato diminuiu bastante o tempo de percurso de longas viagens .	expansão	10	0:ampliação
+Ainda são necessários mais estudos para confirmar essas informações , mas , de qualquer forma , é muito interessante descobrir um pouco mais sobre este grupo , um velho conhecido dos paleontólogos – a primeira ‘ave do terror’ foi descrita em 1887 , também por um cientista argentino .	paleontólogos	31	0:paleontologista
+Isso porque cada estado tem autonomia para emitir o RG - sigla para `` Registro Geral '' - da maneira como quiser .	autonomia	5	0:liberdade	0:independência
+`` As pimentas se adaptaram muito bem ao clima europeu” , diz o historiador .	historiador	13	0:historiógrafo
+Já , mas só quando houve construções rolando na vizinhança .	vizinhança	9	0:adjacência	0:arredor	0:proximidade	0:circunvizinhança	0:cercania
+Esse resultado , contudo , não deixa de provocar uma reflexão sobre o papel dos zoológicos na divulgação da fauna brasileira e no interesse da sociedade pela conservação dos animais que vivem em nosso território .	divulgação	17	0:difusão	0:disseminação
+Um dia , lá no século VI a.C , um corifeu chamado Téspis interrompeu de repente a celebração para declarar , alto e bom som : `` Eu sou Dioniso ! `` .	celebração	17	0:comemoração	0:festejo
+Daí falarmos em fluxo de energia .	fluxo	3	0:corrente
+Exatamente por estarmos dentro dela , sabe-se bem menos sobre sua forma do que se sabe sobre as outras em nossa vizinhança .	vizinhança	21	0:adjacência	0:arredor	0:proximidade	0:circunvizinhança	0:cercania
+Repetiram esse procedimento várias vezes , para que tivessem células suficientes para conduzir o estudo , as deixaram se dividir em laboratório e , depois , as transferiram para o corpo de cadelas , onde elas se desenvolveram , dando origem a Ruppy e seus irmãos .	procedimento	2	0:conduta	0:método
+O cuidado com os alimentos e com o seu preparo também faz parte da boa higiene alimentar .	preparo	9	0:preparação
+Não há consenso entre os especialistas , mas acredita-se que os filhotes eram cuidados pela mãe .	consenso	2	0:concordância
+O tempo de gestação do peixe-boi é de um ano e a fêmea pode gerar um só filhote por vez .	gestação	3	0:gravidez
+Para que a identificação fosse possível , Otto e sua equipe de pesquisadores — composta por Fábio Santos Motta e Rafael Cabrera Namora — precisaram observar o local por mais ou menos seis anos .	identificação	3	0:reconhecimento
+Essa área da ciência começou a se fortalecer no país em meados do século 19 , no Observatório Imperial ( atual Observatório Nacional ) .	meados	11	0:metade
+Para investigar se os sons eram mesmo percebidos e aprendidos pelos fetos , os pesquisadores acompanharam grávidas a partir da 29ª semana de gestação .	gestação	23	0:gravidez
+Então , nosso zangão construiu uma câmara escura para poder projetar as imagens que estava vendo e , assim , pensar na fotografia do filme .	câmara	6	0:compartimento
+Localizada a 7,5 mil anos-luz da Terra , a Eta Carinae tem uma potência luminosa equivalente a cinco milhões de sóis e é quase 90 vezes mais pesada do que o astro-rei .	potência	13	0:força	0:poder
+É o momento da faxina em nossa cabeça .	faxina	4	0:limpeza
+Eles concluíram , por exemplo , que tinha uma audição apurada , que poderia ser utilizada na comunicação com outros membros da mesma espécie ou na identificação de presas .	identificação	26	0:reconhecimento
+Naquela época , eu nem imaginava que pudessem existir algumas espécies mais compridas que minha perna e da espessura de um dedão – os minhocuçus !	espessura	18	0:grossura
+Alguns não servem para o cultivo .	cultivo	5	0:plantio	0:lavoura
+Agora fique bem atento para entender a polêmica que envolve essa nova descoberta .	polêmica	7	0:discussão	0:debate	0:contenda
+Além de vários espetáculos nacionais e internacionais , o evento traz oficinas , mesas redondas e palestras voltadas para todas as idades .	palestras	16	0:conferência
+`` Não seria de espantar se surgissem evidências de vida em algum deles , mas isso ainda pode demorar ... ”Com os oito novos astros identificados , o Kepler atingiu a marca de mil exoplanetas encontrados .	evidências	7	0:prova
+Apesar de parecer apenas uma bola de basquete prateada com quatro antenas , o Sputnik representava um avanço inédito para o mundo : pela primeira vez o homem conseguia lançar um satélite e , assim , dava o primeiro passo para conhecer melhor o universo .	avanço	17	0:progresso
+Este livro convida você a refletir sobre a diversidade e a importância de conviver com as diferenças .	diversidade	8	0:multiplicidade
+O último grande meteoro se chocou contra um continente há 105 anos , provocando uma explosão com potência mil vezes maior que a da bomba de Hiroshima .	potência	17	0:força	0:poder
+No auge da atividade , havia mais de 200 .	auge	1	0:apogeu	0:ápice
+Outro cientista que bateu um papo com a CHC foi o Diógenes de Almeida Campos , paleontólogo da Academia Brasileira de Ciências .	paleontólogo	16	0:paleontologista
+Assim , quem perder um programa não terá problemas para acompanhar o desenrolar da trama .	trama	14	0:enredo
+Em um futuro não muito distante haverá escassez .	escassez	7	0:carência	0:falta
+A fórmula ajuda a entender a aventura , que traz canções criadas pelo músico Toquinho em parceira com Elifas Andreato .	fórmula	1	0:receita
+`` O resgate foi a coisa mais legal que aprendi.”Muitos outros alunos pensam como Alyce , conta o capitão Luiz Frederico Pascoal , um dos responsáveis pelo Bombeiro mirim em Minas Gerais .	resgate	2	0:salvamento
+Como sua largura e profundidade foram diminuídas , a vazão é de 114 mil litros por segundo , pouco para um rio desse porte	vazão	9	0:fluxo
+No Golfo do México , por exemplo , sua presença causou uma redução da população de camarões , o que afetou o meio ambiente e as atividades de pesca .	redução	12	0:diminuição
+Quer também construir uma câmara escura e projetar as imagens ao seu redor ?	câmara	4	0:compartimento
+É um dos lugares mais povoados do planeta e , como consequência , sofre com a escassez de água e oportunidades .	escassez	16	0:falta
+Os relatos mais antigos a esse respeito são do século 18 , mas não podemos afirmar com segurança que a capoeira tenha origem na África ou no Brasil , ou que tenha surgido primeiro no Rio de Janeiro , na Bahia ou em Pernambuco .	relatos	1	0:informações
+Um tremor de 6.0 já equivale à potência da bomba nuclear de Hiroshima ;	potência	7	0:força	0:poder
+Embora a Bíblia seja um consenso para o tema , se dermos uma interpretação mais ampla para o termo `` publicado '' , talvez pudéssemos ter outros candidatos a primeirão .	consenso	5	0:concordância
+Para enfrentar cada obstáculo natural , as aves têm uma estratégia .	estratégia	10	0:estratagema
+Ganhou projeção nacional quando foi Miss Brasil em 1969 .	projeção	1	0:evidência	0:destaque
+Uma das maiores contribuições do povo árabe para o mundo , e principalmente para o Brasil , foi o café , Eles já tomavam essa bebida no século XV !	contribuições	3	0:contributo
+No acervo , pais , professores e crianças podem encontrar onze jeitos de soltar pipa , por exemplo .	acervo	1	0:conjunto
+Para tentarmos descrever de um modo simples , é como se , durante seu giro em torno do Sol , Mercúrio sofresse uma pequena variação na sua trajetória quando está próximo da nossa estrela .	giro	14	0:volta
+Para o primeiro , uma das soluções é usar o acervo da Cinemateca Brasileira .	acervo	10	0:conjunto
+Uma das principais ameaças aos tuco-tucos é o avanço da construção civil .	avanço	8	0:crescimento
+Melhor comer alimentos saudáveis e com moderação !	moderação	6	0:comedimento	0:prudência	0:parcimônia
+A carreira de Jim Carrey serve como exemplo da decadência do cinema comercial americano .	decadência	9	0:declínio
+Nos lugares onde não há recolhimento de lixo , ele deve ser enterrado ou queimado .	recolhimento	5	0:coleta
+Em colisões a 50 km/h , uma criança de 20 quilos	colisões	1	0:impacto
+Essa diferença é mais um indício de que o comportamento do macaco era de planejamento .	indício	5	0:sinal	0:indicação
+Existem evidências de que a vida passou a existir na superfície de nosso planeta tão logo ele teve condições para tal .	evidências	1	0:prova
+Um ano é o tempo que um planeta do sistema solar demora para percorrer um giro completo em torno do Sol .	giro	15	0:volta
+O jogador também não deve se apoiar nela durante a disputa de um lance .	lance	13	0:jogada
+Distante 64 km , é considerada uma das mais completas do Brasil devido à riqueza e diversidade de seus espeleotemas .	diversidade	16	0:multiplicidade	0:variedade
+O charme do filme , portanto , está em juntar uma história do folclore japonês com esse jeito artesanal de fazer cinema .	charme	1	0:encanto	0:graça
+Nos anos 60 e 70 , porém , essa área de Los Angeles entrou em decadência e poucos famosos queriam ter seu nome associado a ela .	decadência	15	0:declínio
+Para alguns , um pouquinho de ardor já é suficiente .	ardor	6	0:ardência
+Recebeu um prêmio pelo conjunto de sua obra literária para crianças em 1986 , pela fundação europeia Calouste Gulbenkian .	fundação	15	0:instituição
+Tite trocou Danilo , de fraca atuação ontem , e pôs Willian .	atuação	6	0:performance	0:desempenho
+Mesmo sem evidências que comprovem a existência de dragões , esses seres fazem parte de diversas culturas – na China , por exemplo , são um dos doze animais que compõem o horóscopo .	evidências	2	0:prova
+A distância do objeto até a câmara dependerá do foco de sua lente e do comprimento do cilindro .	câmara	6	0:compartimento
+Os mitos e as lendas quase sempre procuram explicar algum fenômeno natural que esses povos não conseguiam entender , como o surgimento das estrelas , a formação das estações 1 do ano , a origem do ser humano e do Universo etc .	surgimento	21	0:aparecimento	0:aparição
+Com o passar do tempo e o movimento de separação dos continentes , a região foi mudando até se tornar o que é hoje .	separação	9	0:desmembramento
+Porém , apesar dos indícios , ainda é cedo para afirmar que há mesmo um aumento da população de tucanos-tocos .	indícios	4	0:sinal
+Por outro lado , estudos feitos com pessoas adultas indicam que , se forem usados com moderação , dentro da faixa de uso diário recomendado , esses produtos não fazem mal .	moderação	16	0:comedimento	0:parcimônia
+Porém , o deslocamento deles é muito difícil – como são muito dependentes da água , não aguentam muito tempo debaixo do sol ou sem se molhar .	deslocamento	3	0:movimentação
+Mais tarde , uma grande expansão das florestas ocorreu no período Carbonífero , entre 360 e 300 milhões de anos atrás .	expansão	5	0:propagação	0:ampliação
+A sobrevivência da espécie ao longo do tempo , sim , é um forte indício de que o estilo de caça é eficiente , completa Rogério .	indício	14	0:sinal	0:indicação
+Nas cidades , os carros , as motos e outros veículos são responsáveis pela emissão de metade dos gases que prejudicam o ar .	emissão	14	0:lançamento
+Com o avanço da escavação , o poço fica mais afunilado , chegando a centenas de metros de profundidade e a quilômetros de largura .	avanço	2	0:progressão	0:progresso
+Segundo os índios , ela representa a entidade Jurupari , que , na crença deles , seria equivalente ao nosso Diabo .	entidade	7	0:espírito
+`` Seu corpo é hidrodinâmico , ou seja , achatado e alongado , o que facilita seu deslocamento na água .	deslocamento	17	0:movimento	0:movimentação
+Apesar de ter água de sobra , o Saga ainda é pouco explorado , já que poucas pessoas ocupam o território e somente algumas populações da região usam esse recurso como fonte de água .	sobra	5	0:excesso
+Em pleno século XXI a grande maioria dos brasileiros ignora a imensa diversidade de povos indígenas que vivem no país .	diversidade	12	0:multiplicidade	0:variedade
+`` A contribuição dos moradores locais é fundamental , pois eles são os usuários do recurso e moram próximos às áreas onde estão os ninhos .	contribuição	2	0:auxílio	0:colaboração
+Só que , apesar desses dois grandes avanços na forma como as informações podiam ser compartilhadas , as mensagens ainda dependiam da velocidade dos meios de transporte para chegar ao seu destinatário , fosse uma pessoa ou um jornal .	avanços	7	0:progresso
+Além disso , algumas pessoas podem desenvolver alergia a determinados componentes químicos usados na fabricação dessas guloseimas , como os corantes .	guloseimas	16	0:doce
+E a gata vai resolver seu problema justamente na loja de guloseimas !	guloseimas	11	0:doce
+A espécie foi descoberta nos recifes de Palau e chama atenção para a diversidade desse ecossistema , ainda pouco estudado .	diversidade	13	0:variedade
+Começou , então , a pensar numa solução e , com a ajuda de uma professora , desenvolveu um teste capaz de detectar a fraude .	fraude	24	0:trapaça
+Roberto explica que a espessura da crosta varia entre cinco quilômetros , no fundo dos oceanos , até mais de 80 quilômetros , nos continentes .	espessura	4	0:grossura
+Para complicar , hoje em dia ocorre todo tipo de fusão de estilos .	fusão	10	0:união
+Isso ocorre porque , com a redução da camada de ozônio , os raios ultravioleta irradiados pelo Sol , atingem a Terra com maior intensidade .	redução	6	0:diminuição
+Têm a coloração avermelhada escura ou amarronzada e não apresentam problemas de encharcamento .	coloração	2	0:cor
+`` Seria muito difícil e complicado colocar cinco ou dez mil mosquitos num pequeno recipiente para fazer este procedimento .	procedimento	18	0:experiência
+Marca registrada desse tempero que conquistou o mundo , o ardor da maior parte das pimentas é produzido por uma substância chamada capsaicina , que está presente no próprio fruto e também em suas sementes .	ardor	10	0:ardência
+Já na hora de `` tacklear '' , ou seja , derrubar o adversário no chão , a recomendação é cair com o colega .	recomendação	18	0:conselho
+O confronto matou pelo menos 59 pessoas .	confronto	1	0:luta	0:combate
+É possível que uma dessas colisões tenha sido responsável pela extinção em massa de dinossauros e outros animais e plantas , no final do período Cretáceo .	colisões	5	0:impacto
+O resultado é uma bagunça de restos de ossos e de pedras que , ao se chocarem durante o fluxo da água , vão sendo desgastados e quebrados .	fluxo	19	0:curso
+A tendência natural é que o espaço pouco ocupado nas camadas mais altas seja preenchido pelo ar da vizinhança , o que pressiona ainda mais o ar frio próximo ao solo .	vizinhança	18	0:arredor
+Os fanáticos violentos podem ser punidos em dois casos : arremesso de objetos no campo ou invasão das quatro linhas .	arremesso	10	0:lançamento
+Para saber se alguém tem esse distúrbio , o oftalmologista – médico que cuida da visão das pessoas – mostra cartões com números coloridos em um teste chamado Ishihara ( veja a figura ) .	distúrbio	6	0:desordem
+Essas informações são úteis para melhorar a atuação do atleta , que , ao realizar o movimento de maneira correta , pode obter melhores resultados .	atuação	7	0:performance	0:desempenho
+Não há um prazo determinado para o fim do treinamento , pois cada animal tem seu próprio tempo de recuperação .	treinamento	9	0:adestramento
+Onde : Doncaster , InglaterraNível de rigidez : Pede pra sair !	rigidez	6	0:severidade	0:rigor
+Essas células possuem uma espécie de `` memória” , que mantém o padrão de cada um , ou seja : a espessura do fio de cabelo , o formato da unha etc .	espessura	21	0:grossura
+Para finalizar , a exposição apresenta ainda uma seção chamada `` O corpo tratado” , que mostra como os avanços das pesquisas médicas e da tecnologia ajudam a manter o corpo saudável .	avanços	19	0:progresso	0:desenvolvimento
+Ele explica o surgimento dos inventos mais antigos –como a roda e a luz elétrica– e compara a casa do `` avô do vovô '' com a sua .	surgimento	3	0:advento	0:aparecimento	0:aparição
+Mas logo a depressão voltou a tomar conta de sua mente .	depressão	3	0:desânimo
+Para isso , ele utiliza várias formas de arte : teatro , música , literatura e computação gráfica , que , juntos , renderam produtos que ajudam na divulgação e na compreensão da ciência .	divulgação	28	0:difusão	0:disseminação
+Ao longo do processo de fusão dos três países , finalizado no século 7 , os moradores de Silla acrescentaram à arte marcial o uso das mãos como defesa .	fusão	5	0:união
+A falta de água não vem só da escassez de chuvas , mas também da falta de estrutura na distribuição de água que deveria ter acompanhado o crescimento das cidades de maneira adequada .	escassez	8	0:carência	0:falta
+Após apresentar uma trama em que o personagem principal era um caracol , ela ouviu a pergunta : qual a diferença entre esse animal , as lesmas e os caramujos ?	trama	3	0:enredo
+Com o avanço da tecnologia e da medicina , mais gente vive por mais tempo .	avanço	2	0:progresso	0:desenvolvimento
+Foi trabalhar na Ferme Générale , agência ligada ao governo e responsável pelo recolhimento de impostos .	recolhimento	13	0:coleta	0:cobrança	0:arrecadação
+Muitas morrem em colisões com navios , presas em redes de pesca e , claro , por causa da poluição , que contamina as baleias e sua cadeia alimentar	colisões	3	0:impacto
+Em 2012 , uma nova conferência vai acontecer , é a Rio+20 .	conferência	5	0:convenção
+A polêmica surgiu porque um furacão nunca tinha passado pelo Brasil .	polêmica	1	0:discussão
+O grupo Munduruku vive da caça , da coleta de frutas , da pesca e tem desenvolvido a agricultura e a criação de animais domésticos , como galinhas , vacas , patos , carneiros ... Também desenvolve a exploração de ouro nos garimpos .	coleta	8	0:colheita
+É uma maneira de dizerem `` ei , estou aqui ! ” , e pode ser muito útil para manter a união do grupo durante um deslocamento grande pelo oceano .	deslocamento	26	0:movimento
+O baque era tão violento que podia quebrar costelas e vértebras .	baque	1	0:tranco	0:choque	0:impacto
+A própria Impactor também fornecerá dados , já que possui uma câmera para enviar imagens do núcleo do cometa segundos antes da colisão .	colisão	22	0:impacto
+Ao evaporar , o ar frio é mais denso do que o quente e se forma um fluxo de ar – um ‘vento’ – ao redor do cogumelo .	fluxo	17	0:corrente
+Ainda não há consenso sobre a identidade da figura retratada .	consenso	3	0:concordância
+A quantidade de emissão de partículas e radiação pela estrela do sistema também é importante .	emissão	3	0:lançamento
+A primeira língua oficial da entidade foi o francês , idioma em que o esporte acabou sendo batizado como gymnastique artistique , ou seja , `` ginástica artística '' .	entidade	5	0:instituição
+Até o final do ano , o acervo deve ter cerca de 4.500 títulos , sendo 700 deles dedicados ao público infantil .	acervo	7	0:patrimônio
+Toda essa informação será filtrada para aproveitar os dados de `` só '' cem colisões por segundo .	colisões	14	0:choque	0:impacto
+A redução da fauna é mais um fator que impede a recuperação da mata .	redução	1	0:diminuição
+Mas a CHC traz uma novidade : pesquisadores da Universidade Estadual de Campinas ( Unicamp ) acharam um jeito de prolongar o gosto dessas guloseimas por quase o dobro do tempo .	guloseimas	24	0:doce
+Com um custo estimado em 3 bilhões de reais em 1999 , essa megaobra deve tomar cerca de 65 metros cúbicos de água por segundo do rio , menos de 3 % de sua vazão .	vazão	34	0:fluxo
+Outras espécies , à semelhança de certos besouros do gênero , têm uma linda coloração brilhante que parece feita de metal ou pedras preciosas Alguns exemplos são ( homenagem ao pesquisador Samuel Pessôa ) , ( `` de safira” , em latim ) e ( `` verde-marinho” , em grego ) .	coloração	14	0:pigmentação	0:cor
+No auge de suas atividades , Cascudo estudava muito , sem nunca se afastar do corpo-a-corpo com os habitantes de Natal , seja nos bares , nas feiras , ou nas universidades .	auge	1	0:apogeu	0:ápice
+O material agora faz parte do acervo do nosso museu , junto a outros fósseis de dinossauros encontrados em Marília e no oeste paulista , e ajuda a enriquecer nosso conhecimento sobre a pré-história da região .	acervo	6	0:patrimônio
+Onde : Mesa , EUANível de rigidez : Pauleira	rigidez	6	0:dureza
+Rex e Diná explicaram para o outro mascote da CHC tudo o que aprenderam sobre Pasteur e suas contribuições para o mundo científico .	contribuições	18	0:contributo
+Conflito , sofrimento e morte são a própria essência da tragédia .	essência	8	0:fundamento	0:natureza	0:base
+O seu hábitat é uma nascente que , no final do século XIX , Antônio Conselheiro considerava sagrada – segundo a tradição , só ele podia beber a água de lá – , e que Lampião , mais tarde , muitas vezes usou como refúgio .	refúgio	44	0:abrigo
+Dentre as várias causas para o abandono escolar nas séries iniciais , duas são bastante conhecidas	abandono	6	0:desistência
+Ela fica presa ao fundo dos rios por grossas raízes que , enterradas no lodo , dão sustentação ao caule .	sustentação	17	0:suporte	0:apoio
+Só que essa quantidade é tão pequena que apenas as refeições dariam conta , ou seja : não sobra quase nada para as guloseimas industrializadas !	guloseimas	23	0:doce
+Bem , pelo menos é nisso que acreditam o adeptos da chamada radiestesia , palavra que significa `` sensibilidade às radiações '' em sua origem grega .	adeptos	9	0:seguidor
+Alguma recomendação para os pais que buscam cursos de programação para os filhos ?	recomendação	1	0:conselho
+`` São Longuinho , São Longuinho , se você quebrar uma maldição , dou três pulinhos .	maldição	11	0:praga
+A engenheira química Élida Bonomi modificou a receita dessa guloseima para manter sua aparência apetitosa por mais tempo .	guloseima	9	0:doce
+No que diz respeito às situações de uso , a língua pode variar dependendo do contexto de comunicação .	contexto	15	0:situação
+Mas o cachorro não consegue agradar os alunos , que não entendem muito bem o seu charme e inteligência .	charme	16	0:encanto	0:graça
+Ele também me disse que o universo continua em expansão , só que mais devagar do que naquela época .	expansão	9	0:ampliação
+Mas você sabia que esse alimento virou alvo de polêmica ?	polêmica	9	0:debate	0:controvérsia
+Para completar o passeio , é possível participar de uma visita dramatizada e conduzida por atores pelo jardim da fundação .	fundação	19	0:instituição
+Área de atuação : Os comandantes de navios podem trabalhar como professores nas escolas da Marinha Mercante , em empresas privadas de navegação , em embarcações de turismo , etc .	atuação	2	0:ação
+Então , força no arremesso ! 4 .	arremesso	4	0:lançamento
+A existência da Estação Espacial Internacional é fundamental para que avanços na exploração do Universo sejam feitos .	avanços	10	0:progresso
+O termo é a fusão de `` free '' ( que tem a ver com liberdade ou ausência de custos em inglês ) e `` veganism '' ( prática de não consumir produtos de origem animal ) , ampliando a resistência ao consumo para além da alimentação .	fusão	4	0:junção
+Não é um valor letal - ou seja , acima dos 350 km/h - , mas o baque é forte e pode até matar !	baque	17	0:tranco	0:choque	0:impacto
+A poucos dias da conferência , em um evento chamado Fórum em Ciência , Tecnologia e Inovação para o Desenvolvimento Sustentável , cientistas e representantes de governos de vários lugares do mundo apresentaram dados e sugestões sobre os assuntos que estão sendo tratados na Rio +20 .	conferência	4	0:convenção
+Vai ficando cada vez mais em casa , fugindo ao confronto com tudo aquilo que lhe causa medo .	confronto	10	0:enfrentamento
+Se chegar à quantidade máxima , guarde o resto das guloseimas para o dia seguinte !	guloseimas	10	0:doce
+Mas , por enquanto , não há indício de que qualquer acidente tenha ocorrido '' , diz o porta-voz Louis Parker , que trabalha para a Nasa , a agência espacial americana .	indício	7	0:sinal
+Por outro lado , alguns pesquisadores consideram o universo eterno e , para eles , portanto , não haveria um começo – uma explicação possível é que o universo passaria por vários momentos de contração e expansão .	expansão	36	0:dilatação	0:ampliação
+Dez anos depois , cientistas decidiram fazer um grande estudo sobre que espécies de libélulas fizeram do refúgio sua casa .	refúgio	17	0:abrigo
+A mostra é dividida em seis partes : Aparições , Personagens , Super-humanos , Fábulas e Fragmentos , Estruturas e Visões .	mostra	1	0:exposição	0:exibição
+Mas existia na trama um rei que ficava feliz apenas em torturar os outros e resolveu que sua próxima vítima seria a pobre palmeira .	trama	3	0:enredo
+Ela quer comemorar seu aniversário na casa da avó Leninha , mas a senhora está doente e não pode fazer a festa , nem os quitutes que sempre prepara para sua netinha .	quitutes	25	0:guloseima
+Onde : Johanesburgo , África do SulNível de rigidez : Casca-grossa	rigidez	8	0:dureza
+Lá , crianças a partir de oito anos aprendem sobre a diversidade das plantas e dos animais que vivem na Amazônia e , claro , saem em campo para pesquisar .	diversidade	11	0:variedade
+Temendo um confronto , os deuses colocaram os olhos do pai dela como estrelas no céu e lhe ofereceram Njord como marido .	confronto	2	0:luta
+Da mesma forma , a capsaicina da pimenta provoca um ardor apreciado por muitas pessoas '' , diz a neurofisiologista Débora Fior Chadi , da Universidade de São Paulo ( USP ) .	ardor	10	0:ardência
+Como os diferentes planetas estão posicionados a distâncias diferentes de nossa estrela central , cada um deles precisa de um tempo diferente para fazer esse giro .	giro	25	0:volta
+Quanta polêmica para colocar no prato , não é ?	polêmica	1	0:discussão
+Isso será possível porque a distância entre as estrelas que formam as galáxias é tão grande que tem espaço de sobra para elas se cruzarem .	sobra	20	0:excesso
+A partir dos anos 50 , ganhou adeptos pelo mundo .	adeptos	7	0:seguidor
+Para celebrar os 200 anos do seu nascimento e os 150 anos da publicação de seu livro , que tal visitar a mostra ( , em português ) ?	mostra	22	0:exposição
+E tinha motivos de sobra !	sobra	4	0:excesso
+Em 1987 , a redução do nível de água dividiu o mar em dois : norte e sul	redução	4	0:diminuição	0:baixa
+`` Mas na maioria dos países não há essa distinção .	distinção	9	0:diferença
+À sua disposição , terão alimentos pré-definidos e que deverão ser consumidos com moderação , pois , se acabarem , não poderão ser repostos .	moderação	13	0:comedimento	0:parcimônia
+Para saber as horas à noite , os egípcios criaram um mecanismo em que um recipiente dágua se esvaziava numa vazão controlada , movimentando um mostrador de horas	vazão	20	0:fluxo
+`` Todos esses fenômenos naturais fazem com que haja um enorme deslocamento de massa , o que acaba tornando a rotação da Terra mais lenta” , diz o físico .	deslocamento	11	0:movimento	0:movimentação
+Mas , se você realmente for fazer o passeio , siga esta recomendação : nunca se levante com o ônibus em movimento , porque galhos de árvores e fios da rede elétrica podem provocar acidentes .	recomendação	12	0:conselho
+Além dos joguinhos de cartas e tabuleiros , é bem provável que ele ou ela tenha acompanhado o surgimento dos videogames e jogado com alguns personagens clássicos que você conhece , como Mario Bros e Donkey Kong .	surgimento	18	0:advento	0:aparecimento
+Com um equipamento profissa , quanto maior a potência ou o tamanho do telescópio , maior é a quantidade de estrelas visíveis .	potência	8	0:poder
+A Mata Atlântica é a cobertura vegetal brasileira com maior índice de degradação , pois foi ao longo de sua área de ocorrência que se instalaram as principais cidades do país .	degradação	12	0:deterioração
+É o caso de múmias egípcias do sexo feminino , como a de Amunet , que teria vivido entre 2160 e 1994 a.C. e apresenta traços e pontos inscritos na região abdominal - indício de que a tatuagem , no Egito Antigo , poderia ter relação com cultos à fertilidade .	indício	33	0:sinal
+Mesmo com todo esse avanço ainda há muito a explorar nessa área nos próximos anos .	avanço	4	0:progresso
+Mesmo assim , é verdade que os doces devem ser consumidos com moderação .	moderação	12	0:comedimento	0:parcimônia
+Enquanto saboreia a guloseima , pense : qual foi a função do sal nessa história ?	guloseima	3	0:quitute
+`` O que falta no Brasil são mais postos de recolhimento do material , além da educação das pessoas , que precisam se acostumar a não jogar pilhas e baterias fora '' , afirma Fatima Santos , diretora comercial da Suzaquim , empresa que faz esse tipo de reciclagem .	recolhimento	10	0:coleta
+Porém , hoje se sabe que , ao longo de toda sua ampla área de ocorrência , esta espécie pode apresentar variações na coloração , havendo exemplares com manchas brancas e até mesmo amarelos .	coloração	23	0:pigmentação	0:cor
+Sua função é levar o calor de uma região mais quente para outra mais fria com o intuito de controlar a temperatura do aparelho .	intuito	17	0:propósito	0:objetivo	0:finalidade	0:intento	0:intenção	0:meta
+Outro avanço é que , no CD , os mesmos dados são gravados várias vezes para evitar erros de leitura - se , por exemplo , um minúsculo arranhão fizer um trechinho igualmente microscópico ser lido errado , o aparelho o compara com o outro trecho que deveria ser igual .	avanço	1	0:melhoria
+Mas , como o espaço era muito apertado , os cientistas repetiram o procedimento com uma caixa transparente de acrílico , duas vezes mais espaçosa que o ovo natural .	procedimento	13	0:ato
+- De fato , não há consenso sobre a localização do cenário .	consenso	6	0:concordância
+A mostra apresenta cinco exemplares de dinossauros sul-americanos , pterossauros e o crânio de um crocodilo gigante .	mostra	1	0:exposição	0:exibição
+Mas quase ninguém pensa onde esse montão de coisas vai parar .	montão	6	0:amontoado	0:monte
+Essa junção fez com que os animais do norte viessem para o sul e isso não foi nada bom para o Sahitisuchus fluminensis .	junção	1	0:união
+As ilustrações , feitas por crianças de vários lugares do Brasil , são um charme !	charme	14	0:encanto	0:graça
+Por isso , a resolução da ONU , que foi aceita por líderes judeus , acabou sendo recusada pelos governantes dos países árabes vizinhos da Palestina .	resolução	4	0:decisão
+CLASSE - Sem distinção de classes	distinção	3	0:diferença
+Isso porque não há sequer consenso sobre os motivos do crec-crec .	consenso	5	0:concordância
+Mas alguém já viu ou pegou alguma rocha vindo destas profundezas ?	profundezas	10	0:profundidade
+Primeiro porque o Tâmisa recebia menos esgoto e tem vazão maior que o Tietê , diluindo melhor a sujeira .	vazão	9	0:fluxo
+É uma fusão de `` céu '' , `` trovão '' e `` clima '' em alemão	fusão	2	0:junção
+Além disso , trabalhou na separação das várias espécies de formigas encontradas nas árvores e também no solo peneirado por outros pesquisadores .	separação	5	0:distinção
+Bob Marley foi um dos adeptos .	adeptos	5	0:seguidor
+No auge da alegria , Diná perguntou : `` Por que será que damos tanta importância a esse jogo ? ” Foi aí que decidiram pesquisar .	auge	1	0:apogeu	0:ápice
+Em junho de 1967 , aconteceu a Guerra dos Seis Dias , o primeiro confronto armado .	confronto	14	0:luta	0:combate
+Como a água que molha a gente no banho sai com uma vazão menor , parte dela se acumula dentro do chuveiro2 .	vazão	12	0:fluxo
+Ter essa habilidade seria útil para a Halley VI porque ela será construída sobre uma camada de gelo de 150 metros de espessura que se move em direção ao mar a uma taxa aproximada de 400 metros por ano .	espessura	22	0:grossura
+Fabricados de norte a sul do país , agora eles podem ser admirados por quem visitar a mostra .	mostra	17	0:exposição	0:exibição
+Um dos pontos essenciais é o abastecimento de água , que deve ser consumida com moderação - com seis pessoas no bunker , uma caixa-d'água de mil litros dura cerca de um mês .	moderação	15	0:comedimento	0:parcimônia
+Nessa separação , alguns animais ficaram em diferentes pedaços de terra e hoje estão distribuídos por lugares bem distantes .	separação	1	0:cisão
+A emissão faz parte da série Ícones da Música e mostra o cantor aos 20 anos de idade , ao lado do seu autógrafo .	emissão	1	0:lançamento
+São mais de 1.800 m² entre mesas , balcões , sofás e áreas de entretenimento paras as crianças , com cerca de 150 espécies de plantas e lago artificial .	entretenimento	14	0:passatempo	0:diversão
+Mas , infelizmente , seus dias de realeza podem estar contados : ela está cada vez mais ameaçada e pode desaparecer para sempre da Mata Atlântica .	realeza	7	0:majestade
+Segundo reclamações de pais , o esquema por lá seria pior do que exército : só duas horas de visita por mês ; guloseimas , nem em sonho ; e as garotas não poderiam mandar e-mail ou falar ao celular .	guloseimas	23	0:doce	0:quitute
+Onde : North Bend , EUANível de rigidez : Severa	rigidez	7	0:rigor
+O intuito é fazer uma colagem que não fique presa a uma superfície plana , mas que tenha três dimensões !	intuito	1	0:propósito	0:objetivo	0:meta	0:intenção	0:finalidade
+Os especialistas ainda apontam uma outra distinção : a mexerica possui em sua casca muito mais óleos essenciais - substâncias que deixam aquele cheiro forte e ácido quando se descasca a fruta - do que a ponkan .	distinção	6	0:diferença
+As peças fazem parte do acervo do Espaço Cultura da Marinha .	acervo	5	0:patrimônio
+Os dias quentes e as chuvas constantes são comuns no verão e favorecem o surgimento de epidemias .	surgimento	14	0:aparecimento	0:aparição
+Elas não podem sair correndo , mas também têm suas estratégias para continuar vivas !	estratégias	10	0:manobra	0:artifício	0:truque
+Por conta de todas essas características , na visão de grande parte dos cientistas que estudam o assunto , o 2003 UB313 não poderia ser definido como um planeta , mas apenas como mais um corpo celeste encontrado no Cinturão de Kuiper – e o maior até o momento , já que há indícios de que ele supera Plutão em tamanho e tem entre 2.210 e 3.550 quilômetros de diâmetro .	indícios	53	0:sinal	0:indicação
+Tudo indica que , enquanto o cinema foi inventado somente no século 19 , a guloseima já fazia parte do nosso cardápio há milhares de anos .	guloseima	15	0:quitute
+O rápido fluxo de carga negativa que sai do seu corpo para o metal causa um choque .	fluxo	2	0:corrente
+Há ainda uma feira só com livros dedicados à ciência e uma mostra de trabalhos científicos feitos pelos alunos da EDEM , que fala até sobre pirâmides e múmias .	mostra	12	0:exposição	0:exibição
+Para eles , os bens de consumo se tornam ultrapassados rapidamente pelo avanço da tecnologia - que dá saltos cada vez maiores .	avanço	12	0:progresso	0:desenvolvimento
+Mas nem sempre o entretenimento foi assim .	entretenimento	4	0:diversão
+O segundo passo é a captura das moscas .	captura	5	0:apresamento
+Um bom exemplo é a capacidade que um determinado corpo - um veículo ou um ser vivo - tem para enfrentar a barreira de ar que se forma à sua frente durante um deslocamento em alta velocidade .	deslocamento	33	0:movimento
+Quase todos os campos de extermínio foram construídos na Polônia .	extermínio	5	0:execução	0:aniquilamento	0:exterminação
+É que , por causa da resistência do ar , a bala volta a uma velocidade menor que aquela da hora do disparo .	disparo	22	0:tiro
+`` A derme suína foi escolhida porque sua composição é 78 % compatível com a nossa” , conta a cientista .	derme	2	0:pele
+Na ciência - 50 % dos cientistas têm alguma religiosidade .	religiosidade	9	0:crença
+Só em 1737 , após a morte do papa , os restos mortais de Galileu foram levados para o jazigo de mármore de um monumento em sua homenagem .	jazigo	19	0:sepultura	0:túmulo	0:sepulcro
+Vagarosos , a cópula do casal dura de 10 a 12 horas e a postura dos ovos acontece cerca de três semanas depois .	cópula	3	0:coito
+Entre os animais , assim como nos humanos , a obesidade agrava o problema , pois o acúmulo de gordura provoca um estreitamento ainda maior da passagem do ar .	estreitamento	22	0:redução
+Assim que a ampola presente no interior destes artefatos é quebrada , água oxigenada é liberada e se mistura com outros componentes , gerando luz .	artefatos	8	0:peça
+`` Nosso maior órgão sexual é a pele '' , brinca a sexóloga Carmem Janssen .	sexóloga	12	0:sexologista
+O adolescente também passa a enxergar as imperfeições dos pais , antes vistos como heróis .	imperfeições	7	0:deficiência	0:defeito	0:falha
+Do alto e em vigília , o caçador localizou um dos alvos e disparou seis vezes .	vigília	4	0:vigilância
+Além disso , a tal `` pele '' permite facilmente a excreção de substâncias que precisam ser eliminadas pelo organismo .	excreção	11	0:eliminação
+Pouco antes do uso , eles ficam perto de uma tostadeira , com uma regulagem para cada tipo de pão .	regulagem	14	0:ajuste
+Os navegadores precisavam enfrentar o que chamavam de Mar Tenebroso – onde imaginavam existir serpentes e monstros marinhos – para encontrar um caminho marítimo para as Índias .	navegadores	1	0:navegante
+Cole no caderno gravuras de índios brasileiros nos dias de hoje .	gravuras	3	0:imagem	0:ilustração	0:figura
+Se o disparo for dado a 45 graus , a velocidade final será de cerca de 230 km/h - inferior aos mortais 350 km/h .	disparo	2	0:tiro
+Já que o dia é especial , vou contar a história da Hofesh , uma tartaruga marinha macho resgatada em péssimas condições no mar Mediterrâneo pelo centro de resgate de tartarugas marinhas de Israel e que teve suas nadadeiras esquerdas amputadas para sobreviver .	resgate	28	0:socorro	0:salvamento
+Com isso , tinham a vantagem de serem temidos - na maioria das vezes , a tripulação se entregava antes do embate corporal .	embate	21	0:luta	0:confronto	0:batalha
+Essas imagens foram pintadas por um artista que buscou imprimir em seus quadros o delírio , a alucinação , a loucura .	alucinação	17	0:delírio
+Eram máquinas usadas em cercos ou no campo de batalha , lançando flechas e pedras contras concentrações de soldados inimigos .	cercos	4	0:sítio
+O caminhão que faz o itinerário da Ciência Móvel começou a circular no dia 19 de outubro e já visitou municípios como Nova Iguaçu e Arraial do Cabo .	itinerário	5	0:roteiro
+Por isso , qualquer relação dos maiores shows de rock sempre estará sujeita a contestações .	contestações	14	0:controvérsia	0:polêmica
+A guloseima que conhecemos hoje surgiu no final do século 19 .	guloseima	1	0:quitute
+ Uma das receitas de homúnculo leva sêmen humano magnetizado , enterrado em cocô de cavalo !	sêmen	7	0:esperma
+O pai , desconfiado , faz um verdadeiro interrogatório .	interrogatório	8	0:inquérito
+Daí para carícias mais íntimas ...	carícias	2	0:carinho	0:afago
+Para isso , Darwin mencionou as observações , fatos ou idéias opostos à seleção natural , que colecionava desde a formulação da teoria em 1837 .	formulação	20	0:concepção
+Apesar do tamanho e da ferocidade do bicho , são raros os casos de ataques contra humanos .	ferocidade	5	0:braveza
+Um motor de Fórmula 1 tem de ser aquecido antes da partida , já que suas peças são muito sensíveis e a regulagem é facilmente alterada .	regulagem	22	0:ajuste
+O chumbo tem uma nuvem grande , o que facilita a dissipação da energia contida no raio X .	dissipação	11	0:dispersão
+Saltos ágeis , passos na ponta dos pés , perícia com bastões , chutes calculados , as mãos dobradas .	perícia	9	0:habilidade	0:destreza	0:maestria
+Um dos livros mais importantes da história das ciências , apresenta a Teoria da Evolução , cujos preceitos se tornaram a base da biologia moderna .	preceitos	17	0:princípio
+Com ou sem açúcar , é bom tomar alguns cuidados com essa guloseima .	guloseima	12	0:quitute
+Na Alemanha do século 20 , o conceito foi assimilado pelo Partido Nazista e por seu líder Adolf Hitler , servindo de base para a política de extermínio de judeus e de outros `` povos não-arianos '' .	extermínio	27	0:aniquilamento	0:matança	0:exterminação
+Mas será que esses antigos répteis voavam com a desenvoltura das aves ?	desenvoltura	9	0:agilidade
+Lá , sem ainda esquecer o fato , foi procurar na internet alguma coisa , bicho ou até mesmo algum tipo de alucinação que pudesse explicar o que ele tinha visto .	alucinação	22	0:delírio	0:visão
+Quando a rainha teve seu primeiro filho , elas colocaram o recém-nascido em um cesto e o soltaram no rio .	cesto	14	0:cesta
+O mesmo acontece com os machos , que nunca deixam de produzir sêmen .	sêmen	12	0:esperma
+O mesmo vale para os sonâmbulos , capazes de proezas como abrir os olhos , bater um papo-cabeça e até fazer uma boquinha na geladeira enquanto dormem .	proezas	9	0:façanha
+Confira como esses e outros bichos alpinistas conseguem realizar suas proezas - e , claro , se não há algum deles bem acima de você !	proezas	10	0:façanha
+Outro centenário comemorado com emissão de selos foi o do nascimento de Vinicius de Moraes , em 2013 .	emissão	4	0:lançamento
+No mundo real , as bússolas são baseadas totalmente na ciência , mas não deixam de ser tão incríveis quanto aquela – afinal , sem elas as aventuras de piratas e navegadores de verdade jamais aconteceriam !	navegadores	31	0:navegante
+Após um breve silêncio , ouve um disparo .	disparo	7	0:tiro
+Em 1890 , a composição de Miguez ganhou um prêmio de consolação : foi oficializada como o Hino de Proclamação da República .	consolação	11	0:consolo
+Foi com essa emissão que , em 1956 , a Alemanha Oriental homenageou o compositor Robert Schumann .	emissão	3	0:lançamento
+- Severo o suficiente para impedir o funcionamento normal na sociedade , gerar perigo ao paciente ou a pessoas a seu redor e necessitar internação	internação	24	0:hospitalização
+E para você que já quer correr para a janela em busca de algum caminhão com cara de Ciência fique de olho no itinerário da Ciência Móvel .	itinerário	23	0:roteiro
+Essa é uma situação que deixa todo o mundo nervoso , por não saber quem vai ter e quem não vai ter o ganho que esperava .	ganho	23	0:benefício	0:rendimento
+Se verificarem que o produto não está bom para o consumo , os fiscais podem multar o fabricante ou até o estabelecimento em que o produto é vendido  caso ele não tenha seguido as medidas recomendadas para estocagem e exposição .	estocagem	38	0:armazenamento
+Responde aos anseios das garotas da geração W .	anseios	2	0:aspiração	0:desejo
+Talvez tenham escolhido o Norte como referência – e não o Sul – porque , ao retornar para casa depois de navegar no mar Mediterrâneo , os navegadores italianos ( os primeiros a usarem a bússola com uma marcação de direções ) tinham que navegar para o Norte .	navegadores	27	0:navegante
+Naquela época , os blocos de carnaval eram formados por dez ou vinte pessoas que se reuniam e , com latas transformadas em instrumentos de batuque , saíam pelas ruas .	batuque	25	0:batucada
+Marcos não sabia se acreditava no que via , mas afirmou que algum dia também viajaria pelo cosmos e conheceria de perto a Lua .	cosmos	17	0:universo
+Algumas , como o sêmen , o leite e o suor , apresentam gosto diferente de acordo com o que a gente come .	sêmen	4	0:esperma
+Música estrangeira , só pela internetJá sei namorar : Trocar carícias em público não pode .	carícias	10	0:carinho	0:afago
+Já as espadas longas europeias cortam dos dois lados , ou seja , têm dois gumes	gumes	15	0:corte	0:fio
+Apesar de ter nascido com a mão e o braço direitos atrofiados , encontrou um jeito de usar com desenvoltura os pincéis .	desenvoltura	19	0:agilidade
+`` Nossos estudos indicam que a população dessas aves é muito pequena e está ameaçada pela degradação dos brejos” , afirma Silveira .	degradação	16	0:deterioração
+Dirigir um F-1 não é nada agradável e , após 15 minutos , é provável que o novato no assunto tenha a sensação de ter levado uma verdadeira surra ...	novato	17	0:principiante
+Sobre ele , foram feitos muitos livros , filmes , bonecos , gravuras ...	gravuras	12	0:ilustração
+A pouca velocidade era compensada pela potência no impacto	potência	6	0:força
+Os egípcios antigos acreditavam na vida após a morte , e era importante que quem morresse tivesse depois o que comer e beber ( para saber mais sobre a descoberta das tumbas dos trabalhadores egípcios , clique aqui ) .	tumbas	31	0:sepultura	0:túmulo
+As duas espécies são conhecidas pela ferocidade de seus ataques e pelo grande apetite .	ferocidade	6	0:brutalidade
+Mas mesmo dispondo do GPS , todos os bons navegadores ainda precisam aprender a se orientar e navegar utilizando as técnicas que eram usadas antes de haver satélites e GPS .	navegadores	9	0:navegante
+E é raro acertar no primeiro disparo .	disparo	6	0:tiro
+Uma verdadeira raridade , para uma cidade onde não existia nenhum cajueiro .	raridade	2	0:preciosidade
+( , ... ) Não saberia me definir , mas acho que curto um humor triste , que envolva constrangimento .	constrangimento	19	0:embaraço
+Adolf Hitler era um grande adepto .	adepto	5	0:partidário
+Mas ele pegou uma arma de verdade por engano e matou o amigo com um disparo mortal .	disparo	15	0:tiro
+Os primeiros revólveres eram realmente pequenos canhões - inclusive com o problema de ter de se recarregar a pólvora e a bala de metal a cada disparo .	disparo	26	0:tiro
+Seja como for , desde que foram avistados pela primeira vez , eles atraem a atenção da comunidade científica por sua beleza e peculiaridade , que confere a Saturno um perfil único no sistema solar .	peculiaridade	23	0:singularidade
+Na Atenas do século VI a.C. , as meretrizes já eram regulamentadas e pagavam rios de impostos ao Estado .	meretrizes	8	0:prostituta
+Mas , se este ponto estiver bem perto da pedra , ou , o que dá no mesmo , bem longe do ponto onde nós vamos fazer a força , agora temos um ganho , e com uma força muito menor conseguimos mover a pedra .	ganho	33	0:vantagem
+A Igreja Católica , em particular , deu um `` delete '' definitivo na única menção a ela dentro da Bíblia na metade do século 16 , durante o Concílio de Trento .	menção	15	0:referência	0:alusão
+`` Os novatos eram obrigados a beber uma taça de vinho com urina e eram depilados em nome dos costumes civilizados .	novatos	2	0:calouro

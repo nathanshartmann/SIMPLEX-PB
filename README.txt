@@ -15,3 +15,6 @@ The parameters are:
 - <embeddings_model>: A word embeddings model in the binary format produced by word2vec (https://radimrehurek.com/gensim/models/word2vec.html).
 - <language_model>: A language model in the binary format produced by the KenLM toolkit (https://kheafield.com/code/kenlm).
 - <how_many_to_generate>: The number of candidate substitutions that the model will generate for each target complex word.
+
+
+Hartmann, Nathan S., Gustavo H. Paetzold, and Sandra M. Aluísio. "SIMPLEX-PB: A Lexical Simplification Database and Benchmark for Portuguese." International Conference on Computational Processing of the Portuguese Language. Springer, Cham, 2018.

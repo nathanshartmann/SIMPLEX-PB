@@ -18,6 +18,7 @@ The parameters are:
 
 
 This repository is result of the following paper:
+
 ```
 Hartmann, Nathan S., Gustavo H. Paetzold, and Sandra M. Aluísio. "SIMPLEX-PB: A Lexical Simplification Database and Benchmark for Portuguese." International Conference on Computational Processing of the Portuguese Language. Springer, Cham, 2018.
 ```
